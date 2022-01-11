@@ -217,14 +217,21 @@ $(function(){
         $('header .user').removeClass('login');
         $('header .user').addClass('userInfo');
         $('.gameNav li').removeClass('unlogin');
-        $('header .sportBtn').attr("onclick","window.location.href='./html/sportPage.html'");
-        $('header .liveBtn').attr("onclick","window.location.href='./html/livePage.html'");
-        $('header .slotBtn').attr("onclick","window.location.href='./html/slotPage.html'");
-        $('header .lotteryBtn').attr("onclick","window.location.href='./html/lotteryPage.html'");
-        $('header .fishBtn').attr("onclick","window.location.href='./html/fishPage.html'");
-        $('header .boardBtn').attr("onclick","window.location.href='./html/boardPage.html'");
+        $('header .sportBtn,.typeList .sport').attr("onclick","window.location.href='./html/sportPage.html'");
+        $('header .liveBtn,.typeList .live').attr("onclick","window.location.href='./html/livePage.html'");
+        $('header .slotBtn,.typeList .slot').attr("onclick","window.location.href='./html/slotPage.html'");
+        $('header .lotteryBtn,.typeList .lottery').attr("onclick","window.location.href='./html/lotteryPage.html'");
+        $('header .fishBtn,.typeList .fish').attr("onclick","window.location.href='./html/fishPage.html'");
+        $('header .boardBtn,.typeList .board').attr("onclick","window.location.href='./html/boardPage.html'");
         $('header .event').attr("onclick","window.location.href='./html/event.html'");
         $('header .vip').attr("onclick","window.location.href='./html/vip.html'");
+
+        $('.topGameList .sport li').attr("onclick","openSportGame()");
+        $('.topGameList .live li').attr("onclick","openLiveGame()");
+        $('.topGameList .slot li').attr("onclick","openSlotGame()");
+        $('.topGameList .fish li').attr("onclick","openFishGame()");
+        $('.topGameList .lottery li').attr("onclick","openLotteryGame()");
+        $('.topGameList .board li').attr("onclick","openBoardGame()");
     })
 })
 
@@ -249,14 +256,9 @@ $(function(){
         $('.filter,.forgetPassword').addClass('display');
     })
 
-    $('.loginBtn').click(function(){
+    $('.loginBtn,.openNews').click(function(){
         $('.jumpWindow').removeClass('display');
         $('.filter,.news').addClass('display');
-    })
-
-    $('.unlogin').click(function(){
-        $('.jumpWindow').removeClass('display');
-        $('.filter,.plsGo').addClass('display');
     })
 
     $('.vipWrap .check').click(function(){
@@ -285,16 +287,16 @@ $(function(){
 
     $('.sportPage .sportGame01').click(function(){
         $('.jumpWindow').removeClass('display');
-        $('.filter,.betWindow.game01').addClass('display');
+        $('.filter,.betWindow.sportGame01').addClass('display');
     })
 
     $('.livePage .liveGame01').click(function(){
         $('.jumpWindow').removeClass('display');
-        $('.filter,.betWindow.game01').addClass('display');
+        $('.filter,.betWindow.liveGame01').addClass('display');
     })
     $('.livePage .liveGame02').click(function(){
         $('.jumpWindow').removeClass('display');
-        $('.filter,.betWindow.game02').addClass('display');
+        $('.filter,.betWindow.liveGame02').addClass('display');
     })
 
     $('.lotteryPage .lotteryGame01').click(function(){
@@ -306,6 +308,10 @@ $(function(){
         $('.filter,.betWindow.game02').addClass('display');
     })
 })
+function unlogin(){
+    $('.jumpWindow').removeClass('display');
+    $('.filter,.plsGo').addClass('display');
+}
 
 //jumpWindow .new .content
 $(function(){
@@ -575,3 +581,37 @@ $(function(){
         $('.pfName.active,.gameList.active').removeClass('active');
     })
 })
+
+$(function(){
+    $('.goTop').click(function(){
+        var $body = (window.opera) ? (document.compatMode == "CSS1Compat" ? $('html') : $('body')) : $('html,body'); //各瀏覽器相容性
+        $body.delay('0').animate({
+                scrollTop: 0
+        },300);
+    })
+})
+
+function openSportGame(){
+    $('.jumpWindow').removeClass('display');
+    $('.filter,.betWindow.sportGame01').addClass('display');
+}
+function openLiveGame(){
+    $('.jumpWindow').removeClass('display');
+    $('.filter,.betWindow.liveGame01').addClass('display');
+}
+function openSlotGame(){
+    $('.jumpWindow').removeClass('display');
+    $('.filter,.betWindow.slotGame01').addClass('display');
+}
+function openLotteryGame(){
+    $('.jumpWindow').removeClass('display');
+    $('.filter,.betWindow.lotteryGame01').addClass('display');
+}
+function openFishGame(){
+    $('.jumpWindow').removeClass('display');
+    $('.filter,.betWindow.fishGame01').addClass('display');
+}
+function openBoardGame(){
+    $('.jumpWindow').removeClass('display');
+    $('.filter,.betWindow.boardGame01').addClass('display');
+}
