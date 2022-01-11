@@ -316,14 +316,20 @@ function unlogin(){
 //jumpWindow .new .content
 $(function(){
     $('.news .nav .hot').click(function(){
+        $(this).addClass('active');
+        $(this).siblings().removeClass('active');
         $('.forHot').addClass('display');
         $('.forHot').siblings().removeClass('display');
     })
     $('.news .nav .normal').click(function(){
+        $(this).addClass('active');
+        $(this).siblings().removeClass('active');
         $('.forNormal').addClass('display');
         $('.forNormal').siblings().removeClass('display');
     })
     $('.news .nav .deposit').click(function(){
+        $(this).addClass('active');
+        $(this).siblings().removeClass('active');
         $('.forDeposit').addClass('display');
         $('.forDeposit').siblings().removeClass('display');
     })
