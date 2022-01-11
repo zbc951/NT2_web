@@ -1,5 +1,5 @@
 .innerPage {
-    background: $backgroundColor_9;
+    background: $backgroundColor_4;
     padding: 20px 0 40px;
 
     .center {
@@ -14,7 +14,7 @@
 
         hr {
             width: 100%;
-            border: solid 1px $borderColor_7;
+            border: solid 1px $borderColor_2;
             border-width: 1px 0 0;
             margin: 0;
         }
@@ -55,7 +55,7 @@
                     }
 
                     .days {
-                        color: $fontColor_13;
+                        color: $fontColor_7;
                         font-size: 14px;
                         margin-top: 10px;
                         font-weight: bold;
@@ -124,7 +124,7 @@
                     }
 
                     &:nth-of-type(1),&:nth-of-type(3),&:nth-of-type(7) {
-                        border-top: solid 1px $borderColor_7;
+                        border-top: solid 1px $borderColor_2;
                     }
 
                     i {
@@ -193,8 +193,8 @@
                     padding: 0 20px;
                     font-size: 20px;
                     letter-spacing: 2px;
-                    color: $fontColor_14;
-                    border-bottom: solid 1px $borderColor_7;
+                    color: $fontColor_3;
+                    border-bottom: solid 1px $borderColor_2;
                     font-weight: bold;
                 }
 
@@ -211,21 +211,21 @@
 
                         &.remind {
                             margin-top: 6px;
-                            color: $fontColor_13;
+                            color: $fontColor_7;
                         }
 
                         em {
 
                             &.low {
-                                color: $fontColor_16;
+                                color: $fontColor_4;
                             }
 
                             &.middle {
-                                color: $fontColor_17;
+                                color: $fontColor_12;
                             }
 
                             &.high {
-                                color: $fontColor_18;
+                                color: $fontColor_13;
                             }
                         }
                     }
@@ -246,7 +246,7 @@
                             &.active {
 
                                 i {
-                                    background-color: $backgroundColor_15;
+                                    background-color: $backgroundColor_9;
                                 }
                             }
 
@@ -295,12 +295,12 @@
 
                     .content {
                         padding: 20px 24px;
-                        border-bottom: solid 1px $borderColor_7;
+                        border-bottom: solid 1px $borderColor_2;
 
                         h1 {
                             font-size: 17px;
                             letter-spacing: 2px;
-                            color: $fontColor_14;
+                            color: $fontColor_3;
                             font-weight: bold;
                         }
 
@@ -330,7 +330,7 @@
 
                                                     &::before {
                                                         content: "※ ";
-                                                        color: $fontColor_8;
+                                                        color: $fontColor_4;
                                                     }
                                                 }
 
@@ -341,7 +341,7 @@
                                                 .remind {
                                                     font-size: 12px;
                                                     padding-left: 110px;
-                                                    color: $fontColor_13;
+                                                    color: $fontColor_7;
                                                     font-weight: bold;
                                                     margin-top: 6px;
 
@@ -349,7 +349,7 @@
                                                         padding: 0;
 
                                                         span {
-                                                            color: $fontColor_19;
+                                                            color: $fontColor_14;
                                                         }
                                                     }
                                                 }
@@ -394,7 +394,7 @@
                                                 right: 0px;
                                                 top: 50%;
                                                 transform: translateY(-50%);
-                                                @include buttonStyle_10;
+                                                @include buttonStyle_8;
                                             }
                                         }
                                     }
@@ -428,7 +428,7 @@
                             font-size: 17px;
                             font-weight: bold;
                             letter-spacing: 2px;
-                            color: $fontColor_14;
+                            color: $fontColor_3;
                         }
 
                         ul {
@@ -483,7 +483,7 @@
                         padding: 20px 24px;
                         font-size: 17px;
                         letter-spacing: 2px;
-                        color: $fontColor_14;
+                        color: $fontColor_3;
                         font-weight: bold;
                     }
 
@@ -494,7 +494,7 @@
                         justify-content: center;
                         align-items: center;
                         letter-spacing: 1px;
-                        color: $fontColor_13;
+                        color: $fontColor_7;
                         font-weight: bold;
 
                         &.display {
@@ -696,7 +696,7 @@
                 height: auto;
                 box-sizing: border-box;
                 padding: 18px 22px 6px;
-                border-top: solid 1px $borderColor_7;
+                border-top: solid 1px $borderColor_2;
 
                 .title {
                     width: 100%;
@@ -704,7 +704,7 @@
                     margin-bottom: 30px;
                     font-size: 17px;
                     letter-spacing: 2px;
-                    color: $fontColor_14;
+                    color: $fontColor_3;
                 }
 
                 ul {
@@ -715,7 +715,7 @@
 
                     li {
                         width: calc(33.3% - 1px);
-                        border-right: solid 1px $borderColor_11;
+                        border-right: solid 1px $borderColor_2;
                         display: flex;
                         flex-direction: column;
                         align-items: center;
@@ -736,7 +736,7 @@
 
                         .num {
                             font-size: 28px;
-                            color: $fontColor_8;
+                            color: $fontColor_4;
                             font-weight: bold;
                         }
                     }
@@ -760,7 +760,7 @@
                 font-size: 17px;
                 font-weight: bold;
                 letter-spacing: 2px;
-                color: $fontColor_14;
+                color: $fontColor_3;
 
                 .back {
                     display: block;
@@ -826,7 +826,7 @@
                                         div {
 
                                             .text {
-                                                color: $fontColor_15;
+                                                color: $fontColor_1;
                                             }
 
                                             .num {
@@ -880,12 +880,12 @@
                                             &.text {
                                                 font-size: 12px;
                                                 margin-bottom: 8px;
-                                                color: $fontColor_13;
+                                                color: $fontColor_7;
                                             }
 
                                             &.num {
                                                 font-size: 15px;
-                                                color: $fontColor_14;
+                                                color: $fontColor_3;
                                             }
                                         }
                                     }
@@ -919,7 +919,7 @@
                     align-items: center;
                     justify-content: space-between;
                     height: 50px;
-                    border-bottom: solid 1px $borderColor_7;
+                    border-bottom: solid 1px $borderColor_2;
 
                     &.header {
                         border-bottom: solid 2px $borderColor_8;
@@ -931,7 +931,7 @@
                         font-size: 13px;
                         letter-spacing: 1px;
                         color: $fontColor_2;
-                        border-right: solid 1px $borderColor_7;
+                        border-right: solid 1px $borderColor_2;
                         box-sizing: border-box;
                         font-weight: bold;
 
@@ -976,7 +976,7 @@
                         padding-left: 22px;
                         font-size: 20px;
                         letter-spacing: 2px;
-                        color: $fontColor_14;
+                        color: $fontColor_3;
                         font-weight: bold;
                     }
 
@@ -989,7 +989,7 @@
                             box-sizing: border-box;
                             padding: 14px 0 0 24px;
                             height: 203px;
-                            border-right: solid 1px $borderColor_7;
+                            border-right: solid 1px $borderColor_2;
                             
                             .totalTitle {
                                 display: flex;
@@ -998,7 +998,7 @@
                                 margin-bottom: 11px;
                                 font-size: 17px;
                                 letter-spacing: 2px;
-                                color: $fontColor_20;
+                                color: $fontColor_13;
                                 font-weight: bold;
 
                                 .icon {
@@ -1024,7 +1024,7 @@
                                         width: 240px;
                                         height: 31px;
                                         align-items: center;
-                                        background: $backgroundColor_14;
+                                        background: $backgroundColor_13;
                                         border-radius: 3px;
 
                                         p {
@@ -1042,7 +1042,7 @@
                                                 left: -8px;
                                                 border-style: solid;
                                                 border-width: 6px 8px 6px 0px;
-                                                border-color: transparent $borderColor_13;
+                                                border-color: transparent $borderColor_9;
                                             }
                                         }
                                     }
@@ -1055,7 +1055,7 @@
                                 box-sizing: border-box;
                                 padding-left: 11px;
                                 font-size: 43px;
-                                color: $fontColor_14;
+                                color: $fontColor_3;
                                 font-weight: bold;
                             }
                         }
@@ -1066,7 +1066,7 @@
                             box-sizing: border-box;
                             padding: 14px 0 0 24px;
                             height: 203px;
-                            border-right: solid 1px $borderColor_7;
+                            border-right: solid 1px $borderColor_2;
                             
                             .ableTitle {
                                 display: flex;
@@ -1075,7 +1075,7 @@
                                 margin-bottom: 11px;
                                 font-size: 17px;
                                 letter-spacing: 2px;
-                                color: $fontColor_14;
+                                color: $fontColor_3;
                                 font-weight: bold;
 
                                 .icon {
@@ -1101,7 +1101,7 @@
                                         width: 240px;
                                         height: 31px;
                                         align-items: center;
-                                        background: $backgroundColor_14;
+                                        background: $backgroundColor_13;
                                         border-radius: 3px;
 
                                         p {
@@ -1119,7 +1119,7 @@
                                                 left: -8px;
                                                 border-style: solid;
                                                 border-width: 6px 8px 6px 0px;
-                                                border-color: transparent $borderColor_13;
+                                                border-color: transparent $borderColor_9;
                                             }
                                         }
                                     }
@@ -1133,7 +1133,7 @@
                                 padding-left: 11px;
                                 margin-bottom: 27px;
                                 font-size: 43px;
-                                color: $fontColor_14;
+                                color: $fontColor_3;
                                 font-weight: bold;
                             }
 
@@ -1190,7 +1190,7 @@
                         .title {
                             font-weight: bold;
                             font-size: 17px;
-                            color: $fontColor_14;
+                            color: $fontColor_3;
                             letter-spacing: 2px;
                         }
 
@@ -1207,14 +1207,14 @@
                                 height: 50px;
 
                                 &.detailTitle {
-                                    border-bottom: solid 2px $borderColor_14;
+                                    border-bottom: solid 2px $borderColor_5;
                                 }
 
                                 div {
                                     height: 17px;
                                     font-size: 13px;
                                     color: $fontColor_2;
-                                    border-right: solid 1px $borderColor_7;
+                                    border-right: solid 1px $borderColor_2;
                                     display: flex;
                                     align-items: center;
                                     justify-content: center;
@@ -1277,7 +1277,7 @@
                                                 letter-spacing: 1px;
                                                 font-weight: bold;
                                                 margin-top: 3px;
-                                                color: $fontColor_9;
+                                                color: $fontColor_7;
                                             }
                                         }
                                     }
@@ -1295,7 +1295,7 @@
                                         .trans {
                                             width: 97px;
                                             height: 31px;
-                                            @include buttonStyle_11;
+                                            @include buttonStyle_8_2;
                                         }
                                     }
                                 }
@@ -1310,7 +1310,7 @@
                                 letter-spacing: 1px;
                                 font-size: 17px;
                                 font-weight: bold;
-                                color: $fontColor_13;
+                                color: $fontColor_7;
 
                                 &.display {
                                     display: flex;
@@ -1331,7 +1331,7 @@
                             font-size: 17px;
                             letter-spacing: 2px;
                             margin-bottom: 20px;
-                            color: $fontColor_14;
+                            color: $fontColor_3;
                             font-weight: bold;
                         }
                         
@@ -1348,7 +1348,7 @@
                                 height: auto;
                                 margin: 0 9px 9px 0;
                                 border-radius: 5px;
-                                border: solid 1px $borderColor_7;
+                                border: solid 1px $borderColor_2;
                                 padding: 18px;
 
                                 &:nth-of-type(5n) {
@@ -1394,13 +1394,13 @@
                         height: auto;
                         padding: 10px 0 15px 20px;
                         box-sizing: border-box;
-                        border-bottom: solid 1px $borderColor_7;
+                        border-bottom: solid 1px $borderColor_2;
 
                         span {
                             font-size: 20px;
                             letter-spacing: 2px;
                             font-weight: bold;
-                            color: $fontColor_14;
+                            color: $fontColor_3;
                         }
                     }
 
@@ -1420,15 +1420,15 @@
                                 font-size: 17px;
                                 font-weight: bold;
                                 letter-spacing: 2px;
-                                color: $fontColor_14;
+                                color: $fontColor_3;
 
                                 &:nth-of-type(2) {
                                     font-size: 15px;
-                                    color: $fontColor_9;
+                                    color: $fontColor_7;
                                     
                                     span {
                                         font-size: 15px;
-                                        color: $fontColor_9;
+                                        color: $fontColor_7;
                                     }
                                 }
                             }
@@ -1449,7 +1449,7 @@
                                     height: 150px;
                                     border-radius: 10px;
                                     box-sizing: border-box;
-                                    box-shadow: 0 2px 5px 2px $boxShadow_4;
+                                    box-shadow: 0 2px 5px 2px $boxShadow_2;
                                     display: flex;
                                     flex-direction: column;
                                     margin-right: 15px;
@@ -1479,7 +1479,7 @@
 
                                     &.register {
                                         background: $linear_4;
-                                        border: solid 1px $borderColor_15;
+                                        border: solid 1px $borderColor_3;
                                         padding: 15px 17px 0;
 
                                         .name {
@@ -1516,7 +1516,7 @@
                                             text-align: center;
                                             letter-spacing: 1px;
                                             background: $backgroundColor_3;
-                                            color: $fontColor_21;
+                                            color: $fontColor_9;
                                             font-size: 16px;
                                             border-radius: 0 0 5px 5px;
                                             margin-top: 4px;
@@ -1549,7 +1549,7 @@
                                 font-size: 17px;
                                 letter-spacing: 2px;
                                 font-weight: bold;
-                                color: $fontColor_14;
+                                color: $fontColor_3;
                             }
 
                             .formBox {
@@ -1595,7 +1595,7 @@
                                                         font-size: 13px;
                                                         margin-right: 5px;
                                                         letter-spacing: 1px;
-                                                        color: $fontColor_8;
+                                                        color: $fontColor_4;
                                                     }
                                                 }
                                             }
@@ -1615,7 +1615,7 @@
                                                     display: none;
                                                     font-size: 12px;
                                                     padding-top: 3px;
-                                                    color: $fontColor_8;
+                                                    color: $fontColor_4;
 
                                                     &.display {
                                                         display: block;
@@ -1628,7 +1628,7 @@
                                                     position: absolute;
                                                     left: 0;
                                                     bottom: -16px;
-                                                    color: $fontColor_13;
+                                                    color: $fontColor_7;
                                                 }
 
                                                 button {
@@ -1673,7 +1673,7 @@
                     height: 43px;
                     box-sizing: border-box;
                     padding: 0 20px;
-                    border-bottom: solid 1px $borderColor_7;
+                    border-bottom: solid 1px $borderColor_2;
                     font-size: 16px;
                     letter-spacing: 2px;
                     color: $fontColor_10;
@@ -1708,7 +1708,7 @@
 
                         .transList {
                             height: 53px;
-                            border-bottom: solid 1px $borderColor_7;
+                            border-bottom: solid 1px $borderColor_2;
                             margin-bottom: 13px;
                             display: flex;
                             flex-direction: column;
@@ -1721,7 +1721,7 @@
                                 height: 19px;
                                 font-size: 14px;
                                 letter-spacing: 1px;
-                                color: $fontColor_13;
+                                color: $fontColor_7;
 
                                 p {
                                     color: $fontColor_2;
@@ -1757,7 +1757,7 @@
                     .smallList {
                         height: 84px;
                         padding: 8px 18px 12px;
-                        border-bottom: solid 1px $borderColor_7;
+                        border-bottom: solid 1px $borderColor_2;
                         box-sizing: border-box;
 
                         .smallTitle {
@@ -1765,7 +1765,7 @@
                             letter-spacing: 1px;
                             margin-bottom: 10px;
                             font-weight: bold;
-                            color: $fontColor_8;
+                            color: $fontColor_4;
                         }
 
                         ul {
@@ -1782,7 +1782,7 @@
                                     
                                     &:nth-of-type(1) {
                                         font-size: 12px;
-                                        color: $fontColor_13;
+                                        color: $fontColor_7;
                                     }
 
                                     &:last-child {
@@ -1801,7 +1801,7 @@
                         height: 307px;
                         align-items: center;
                         justify-content: center;
-                        color: $fontColor_13;
+                        color: $fontColor_7;
                         font-weight: bold;
                         letter-spacing: 1px;
 
@@ -1877,7 +1877,7 @@
                 .date {
                     width: 100%;
                     font-size: 15px;
-                    color: $fontColor_13;
+                    color: $fontColor_7;
                     padding-bottom: 18px;
                 }
 
@@ -1907,8 +1907,8 @@
                     padding-left: 22px;
                     font-size: 20px;
                     font-weight: bold;
-                    color: $fontColor_14;
-                    border-bottom: solid 1px $borderColor_7;
+                    color: $fontColor_3;
+                    border-bottom: solid 1px $borderColor_2;
                 }
 
                 div {
@@ -1963,7 +1963,7 @@
                         width: 100%;
                         height: auto;
                         padding-bottom: 16px;
-                        border-bottom: solid 1px $borderColor_7;
+                        border-bottom: solid 1px $borderColor_2;
 
                         &.nor {
                             justify-content: flex-end;
@@ -2023,6 +2023,8 @@
                             margin: 20px 34px 0 0;
                             display: flex;
                             align-items: center;
+                            color: $fontColor_7;
+                            font-size: 16px;
 
                             input {
                                 position: relative;
@@ -2038,7 +2040,7 @@
                                     transform: translate(-50%,-50%);
                                     background: $backgroundColor_3;
                                     border-radius: 50%;
-                                    border: 2px solid $borderColor_12;
+                                    border: 2px solid $borderColor_2;
                                 }
 
                                 &:checked {
@@ -2066,14 +2068,9 @@
                                         transform: translate(-50%,-50%);
                                         background: $backgroundColor_3;
                                         border-radius: 50%;
-                                        border: 2px solid $borderColor_12;
+                                        border: 2px solid $borderColor_2;
                                     }
                                 }
-                            }
-
-                            span {
-                                color: $fontColor_22;
-                                font-size: 16px;
                             }
                         }
                     }
@@ -2084,11 +2081,11 @@
                             height: 46px;
                             display: flex;
                             align-items: center;
-                            border-bottom: solid 1px $borderColor_7;
+                            border-bottom: solid 1px $borderColor_2;
                             cursor: pointer;
 
                             &:hover,&:active,&.active {
-                                background: $backgroundColor_16;
+                                background: $backgroundColor_4;
                             }
 
                             .title {
@@ -2107,14 +2104,14 @@
                                     right: 0;
                                     width: 1px;
                                     height: 15px;
-                                    background: $borderColor_16;
+                                    background: $borderColor_7;
                                 }
                             }
 
                             .date {
                                 width: 30%;
                                 text-align: center;
-                                color: $fontColor_13;
+                                color: $fontColor_7;
                             }
                         }
                     }
@@ -2146,7 +2143,7 @@
                     letter-spacing: 2px;
                     font-size: 20px;
                     font-weight: bold;
-                    color: $fontColor_14;
+                    color: $fontColor_3;
                 }
             }
 
@@ -2188,12 +2185,12 @@
                             width: 100%;
                             margin-bottom: 8px;
                             border-radius: 3px;
-                            border: solid 1px $borderColor_14;
+                            border: solid 1px $borderColor_5;
 
                             .header {
                                 width: 100%;
                                 height: 47px;
-                                border-bottom: solid 1px $borderColor_7;
+                                border-bottom: solid 1px $borderColor_2;
                                 box-sizing: border-box;
                                 padding: 0 15px;
                                 display: flex;
@@ -2213,14 +2210,14 @@
                                         align-items: center;
 
                                         &.first {
-                                            color: $fontColor_12;
+                                            color: $fontColor_10;
                                         }
 
                                         span {
-                                            color: $fontColor_12;
+                                            color: $fontColor_10;
 
                                             &.now {
-                                                color: $fontColor_23;
+                                                color: $fontColor_13;
                                             }
 
                                             &.split {
@@ -2270,11 +2267,11 @@
     
                                             &.smallTitle {
                                                 margin-right: 25px;
-                                                color: $fontColor_12;
+                                                color: $fontColor_10;
                                             }
     
                                             &.cur {
-                                                color: $fontColor_24;
+                                                color: $fontColor_12;
                                             }
                                         }
                                     }
@@ -2306,7 +2303,7 @@
                             height: auto;
                             box-sizing: border-box;
                             padding: 24px 18px 24px 24px;
-                            border-bottom: solid 1px $borderColor_7;
+                            border-bottom: solid 1px $borderColor_2;
 
                             form {
                                 width: 100%;
@@ -2376,7 +2373,7 @@
                                         width: 72px;
                                         height: 43px;
                                         margin-right: 8px;
-                                        @include buttonStyle_14;
+                                        @include buttonStyle_11;
                                     }
                                 }
 
@@ -2404,7 +2401,7 @@
                                 font-size: 17px;
                                 font-weight: bold;
                                 letter-spacing: 2px;
-                                color: $fontColor_14;
+                                color: $fontColor_3;
                             }
 
                             table {
@@ -2417,7 +2414,7 @@
                                         vertical-align: middle;
                                         letter-spacing: 1px;
                                         color: $fontColor_2;
-                                        border-bottom: solid 2px $borderColor_14;
+                                        border-bottom: solid 2px $borderColor_5;
                                         font-size: 13px;
                                         font-weight: bold;
                                     }
@@ -2441,7 +2438,7 @@
                                 justify-content: center;
                                 font-weight: bold;
                                 letter-spacing: 1px;
-                                color: $fontColor_13;
+                                color: $fontColor_7;
 
                                 &.display {
                                     display: flex;
@@ -2462,7 +2459,7 @@
                 height: 50px;
                 background: $backgroundColor_3;
                 box-shadow: 0 5px 10px -5px $boxShadow_3;
-                color: $fontColor_14;
+                color: $fontColor_3;
                 display: flex;
                 align-items: center;
                 box-sizing: border-box;
@@ -2513,7 +2510,7 @@
                             height: auto;
                             box-sizing: border-box;
                             padding: 24px 18px 24px 24px;
-                            border-bottom: solid 1px $borderColor_7;
+                            border-bottom: solid 1px $borderColor_2;
 
                             form {
                                 width: 100%;
@@ -2580,7 +2577,7 @@
                                         width: 72px;
                                         height: 43px;
                                         margin-right: 8px;
-                                        @include buttonStyle_14;
+                                        @include buttonStyle_11;
                                     }
                                 }
 
@@ -2614,7 +2611,7 @@
                                 align-items: center;
                                 justify-content: center;
                                 letter-spacing: 1px;
-                                color: $fontColor_13;
+                                color: $fontColor_7;
                                 font-weight: bold;
 
                                 &.display {
@@ -2655,7 +2652,7 @@
                                             transform: translateY(-50%);
                                             top: 50%;
                                             right: 0px;
-                                            background: $backgroundColor_17;
+                                            background: $backgroundColor_8;
                                         }
                                     }
 
@@ -2689,7 +2686,7 @@
                     margin-bottom: 28px;
                     font-size: 20px;
                     letter-spacing: 2px;
-                    color: $fontColor_14;
+                    color: $fontColor_3;
                     font-weight: bold;
                 }
 
@@ -2740,7 +2737,7 @@
                             font-weight: bold;
 
                             &.remind {
-                                color: $fontColor_8;
+                                color: $fontColor_4;
                             }
                         }
 
@@ -2757,7 +2754,7 @@
                                 width: 72px;
                                 height: 43px;
                                 margin-right: 8px;
-                                @include buttonStyle_14;
+                                @include buttonStyle_11;
 
                                 &:last-child {
                                     margin-right: 15px;
@@ -2786,7 +2783,7 @@
                     li {
                         width: 100%;
                         height: 40px;
-                        border-bottom: solid 1px $borderColor_7;
+                        border-bottom: solid 1px $borderColor_2;
 
                         &.title {
                             border-bottom: solid 1px $borderColor_8; 
@@ -2804,7 +2801,7 @@
 
                             .wordWrap {
                                 height: 40px;
-                                border-bottom: solid 1px $borderColor_7;
+                                border-bottom: solid 1px $borderColor_2;
 
                                 .arrow_ic {
                                     transform: rotate(90deg);
@@ -2860,11 +2857,11 @@
                                     height: 19px;
                                     top: 50%;
                                     transform: translateY(-50%);
-                                    background: $backgroundColor_17;
+                                    background: $backgroundColor_8;
                                 }
     
                                 &.result {
-                                    color: $fontColor_8;
+                                    color: $fontColor_4;
                                 }
     
                                 .arrow_ic {
@@ -2911,7 +2908,7 @@
                                     text-align: center;
                                     height: 40px;
                                     vertical-align: middle;
-                                    border-bottom: solid 1px $borderColor_7;
+                                    border-bottom: solid 1px $borderColor_2;
 
                                     &:nth-of-type(1),
                                     &:nth-of-type(7) {
@@ -2949,7 +2946,7 @@
                 align-items: center;
                 justify-content: center;
                 letter-spacing: 1px;
-                color: $fontColor_13;
+                color: $fontColor_7;
                 font-weight: bold;
 
                 &.display {
@@ -2983,16 +2980,16 @@
                         width: 100%;
                         box-sizing: border-box;
                         padding: 0 18px 0 22px;
-                        border-bottom: solid 1px $borderColor_7;
+                        border-bottom: solid 1px $borderColor_2;
                         font-size: 20px;
                         letter-spacing: 2px;
-                        color: $fontColor_14;
+                        color: $fontColor_3;
                         font-weight: bold;
 
                         button {
                             width: 105px;
                             height: 31px;
-                            @include buttonStyle_10;
+                            @include buttonStyle_8;
 
                             i {
                                 display: block;
@@ -3037,7 +3034,7 @@
                                     width: 127px;
                                     height: 36px;
                                     margin-right: 10px;
-                                    @include buttonStyle_15;
+                                    @include buttonStyle_10;
 
                                     i {
                                         width: 27px;
@@ -3062,7 +3059,7 @@
                     .title {
                         font-size: 17px;
                         letter-spacing: 2px;
-                        color: $fontColor_14;
+                        color: $fontColor_3;
                         font-weight: bold;
                     }
 
@@ -3085,7 +3082,7 @@
 
                                 i {
                                     font-size: 16px;
-                                    color: $fontColor_8;
+                                    color: $fontColor_4;
                                     margin-right: 5px;
                                 }
 
@@ -3109,7 +3106,7 @@
                                     left: 108px;
                                     font-size: 12px;
                                     letter-spacing: 1px;
-                                    color: $fontColor_13;
+                                    color: $fontColor_7;
                                 }
                             }
 
@@ -3126,17 +3123,17 @@
                             height: auto;
                             padding: 15px 19px;
                             margin: 39px 0 0 -10px;
-                            border: solid 1px $borderColor_17;
+                            border: solid 1px $borderColor_9;
                             box-sizing: border-box;
 
                             div {
-                                color: $fontColor_12;
+                                color: $fontColor_10;
                                 font-size: 13px;
                                 letter-spacing: 1px;
                                 margin-bottom: 11px;
 
                                 &.title {
-                                    color: $fontColor_25;
+                                    color: $fontColor_9;
                                 }
                             }
                         }
@@ -3166,7 +3163,7 @@
                     align-items: center;
 
                     div {
-                        color: $fontColor_14;
+                        color: $fontColor_3;
                         font-size: 20px;
                         letter-spacing: 2px;
                         font-weight: bold;
@@ -3221,14 +3218,14 @@
                             padding: 13px 0 0 10px;
                             font-size: 43px;
                             font-weight: bold;
-                            color: $fontColor_14;
+                            color: $fontColor_3;
                         }
                     }
 
                     .line {
                         width: 1px;
                         height: 80px;
-                        background: $backgroundColor_17;
+                        background: $backgroundColor_8;
                     }
 
                     .activeWallet {
@@ -3243,7 +3240,7 @@
                                 font-size: 17px;
                                 letter-spacing: 2px;
                                 font-weight: bold;
-                                color: $fontColor_27;
+                                color: $fontColor_8;
                             }
                         }
 
@@ -3254,7 +3251,7 @@
                             padding: 13px 0 0 10px;
                             font-size: 43px;
                             font-weight: bold;
-                            color: $fontColor_14;
+                            color: $fontColor_3;
                         }
                     }
                 }
@@ -3290,7 +3287,7 @@
                            box-sizing: border-box;
                            padding: 18px;
                            margin: 0 16px 16px 0;
-                           border: solid 1px $borderColor_7;
+                           border: solid 1px $borderColor_2;
                            border-radius: 5px;
 
                            &:nth-of-type(4n) {
@@ -3350,14 +3347,14 @@
                         margin-bottom: 25px;
                         font-size: 17px;
                         letter-spacing: 2px;
-                        color: $fontColor_14;
+                        color: $fontColor_3;
                         font-weight: bold;
 
                         .remind {
                             margin-left: 25px;
                             font-size: 14px;
                             letter-spacing: 1px;
-                            color: $fontColor_13;
+                            color: $fontColor_7;
                         }
                     }
 
@@ -3408,7 +3405,7 @@
                         letter-spacing: 2px;
                         font-size: 17px;
                         font-weight: bold;
-                        color: $fontColor_14;
+                        color: $fontColor_3;
                     }
 
                     ul {
@@ -3423,11 +3420,11 @@
                             border-bottom: solid 2px $borderColor_2;
 
                             &.listTitle {
-                                border-color: $borderColor_14;
+                                border-color: $borderColor_5;
                             }
 
                             div {
-                                border-right: solid 1px $borderColor_7;
+                                border-right: solid 1px $borderColor_2;
                                 display: flex;
                                 align-items: center;
                                 justify-content: center;
@@ -3464,7 +3461,7 @@
                             letter-spacing: 1px;
                             font-weight: bold;
                             font-size: 17px;
-                            color: $fontColor_13;
+                            color: $fontColor_7;
 
                             &.display {
                                 display: flex;
@@ -3503,7 +3500,7 @@
                             font-weight: bold;
                             font-size: 20px;
                             letter-spacing: 2px;
-                            color: $fontColor_14;
+                            color: $fontColor_3;
                         }
                     }
     
@@ -3527,14 +3524,14 @@
                                     align-items: center;
                                     font-size: 17px;
                                     letter-spacing: 2px;
-                                    color: $fontColor_26;
+                                    color: $fontColor_4;
                                     font-weight: bold;
     
                                     &.limit {
-                                        color: $fontColor_27;
+                                        color: $fontColor_8;
                                     }
                                     &.canUse {
-                                        color: $fontColor_28;
+                                        color: $fontColor_13;
                                     }
     
                                     i {
@@ -3550,7 +3547,7 @@
                                 padding: 21px 0 0 10px;
                                 font-size: 33px;
                                 font-weight: bold;
-                                color: $fontColor_14;
+                                color: $fontColor_3;
                             }
                         }
                     }
@@ -3586,7 +3583,7 @@
                                box-sizing: border-box;
                                padding: 18px;
                                margin: 0 16px 16px 0;
-                               border: solid 1px $borderColor_7;
+                               border: solid 1px $borderColor_2;
                                border-radius: 5px;
     
                                &:nth-of-type(4n) {
@@ -3647,7 +3644,7 @@
                     .title {
                         font-size: 17px;
                         letter-spacing: 2px;
-                        color: $fontColor_14;
+                        color: $fontColor_3;
                         margin-bottom: 20px;
                         font-weight: bold;
                     }
@@ -3666,7 +3663,7 @@
                             width: 222px;
                             height: 112px;
                             margin-right: 8px;
-                            border: solid 1px $borderColor_7;
+                            border: solid 1px $borderColor_2;
                             border-radius: 5px;
 
                             .name {
@@ -3679,7 +3676,7 @@
 
                                 span {
                                     font-size: 38px;
-                                    color: $fontColor_14;
+                                    color: $fontColor_3;
                                     font-weight: bold;
                                 }
                             }
@@ -3687,7 +3684,7 @@
                             .notice {
                                 font-size: 15px;
                                 letter-spacing: 2px;
-                                color: $fontColor_13;
+                                color: $fontColor_7;
                             }
                         }
                     }
@@ -3707,7 +3704,7 @@
                                 
                                 i {
                                     font-size: 12px;
-                                    color: $fontColor_8;
+                                    color: $fontColor_4;
                                 }
                             }
 
@@ -3731,7 +3728,7 @@
                                     margin: 8px 0 0 26px;
                                     font-size: 12px;
                                     letter-spacing: 1px;
-                                    color: $fontColor_13;
+                                    color: $fontColor_7;
                                 }
                             }
                         }
@@ -3749,12 +3746,12 @@
                         box-sizing: border-box;
                         padding: 15px 19px;
                         margin: 24px 0 0 -10px;
-                        border: solid 1px $borderColor_17;
+                        border: solid 1px $borderColor_9;
 
                         .remindTitle {
                             font-size: 13px;
                             letter-spacing: 1px;
-                            color: $fontColor_25;
+                            color: $fontColor_9;
                             font-weight: bold;
                         }
 
@@ -3762,13 +3759,13 @@
                             margin-bottom: 11px;
                             font-size: 13px;
                             letter-spacing: 1px;
-                            color: $fontColor_12;
+                            color: $fontColor_10;
                             font-weight: bold;
                         }
 
                         p {
                             display: inline;
-                            color: $fontColor_8;
+                            color: $fontColor_4;
                             font-size: 13px;
                             letter-spacing: 1px;
                             font-weight: bold;

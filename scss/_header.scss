@@ -189,7 +189,7 @@ header {
                             width: 100%;
                             height: 47px;
                             padding: 11px 16px;
-                            border-bottom: solid 1px $borderColor_5;
+                            border-bottom: solid 1px $borderColor_4;
                             box-sizing: border-box;
                             color: $fontColor_1;
 
@@ -282,11 +282,6 @@ header {
             display: flex;
             align-items: center;
             justify-content: space-between;
-
-            .logo {
-                width: 119px;
-                height: 53px;
-            }
 
             ul {
                 width: auto;

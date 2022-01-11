@@ -24,147 +24,147 @@ input:read-only {
 }
 
 header .acc_ic {
-  background: url("../../images/icon/svg/id.svg") no-repeat;
+  background: url("../images/icon/svg/id.svg") no-repeat;
   background-size: 100%;
 }
 
 header .pass_ic {
-  background: url("../../images/icon/svg/pwd.svg") no-repeat;
+  background: url("../images/icon/svg/pwd.svg") no-repeat;
   background-size: 100%;
 }
 
 header .forget {
-  background: url("../../images/icon/svg/question.svg") no-repeat;
+  background: url("../images/icon/svg/question.svg") no-repeat;
   background-size: 100%;
 }
 
 header .register_ic {
-  background: url("../../images/icon/svg/register.svg") no-repeat;
+  background: url("../images/icon/svg/register.svg") no-repeat;
   background-size: 100%;
 }
 
 header .marquee_ic {
-  background: url("../../images/icon/svg/marquee.svg") no-repeat;
+  background: url("../images/icon/svg/marquee.svg") no-repeat;
   background-size: 100%;
 }
 
 .topGameList .prev, .topGameList .next {
-  background: url("../../images/icon/svg/arrow_g.svg") no-repeat;
+  background: url("../images/icon/svg/arrow_g.svg") no-repeat;
   background-size: 100%;
 }
 
 .single-item button::after {
-  background: url("../../images/icon/svg/arrow_w.svg") no-repeat;
+  background: url("../images/icon/svg/arrow_w.svg") no-repeat;
   background-size: 100%;
 }
 
 .download i {
-  background: url("../../images/icon/svg/download.svg") no-repeat;
+  background: url("../images/icon/svg/download.svg") no-repeat;
   background-size: 100%;
 }
 
 .rightSide .callCenter i {
-  background: url("../../images/icon/svg/notice.svg") no-repeat;
+  background: url("../images/icon/svg/notice.svg") no-repeat;
   background-size: 100%;
 }
 
 .rightSide .line i {
-  background: url("../../images/icon/svg/line.svg") no-repeat;
+  background: url("../images/icon/svg/line.svg") no-repeat;
   background-size: 100%;
 }
 
 .rightSide .weChat i {
-  background: url("../../images/icon/svg/wechat.svg") no-repeat;
+  background: url("../images/icon/svg/wechat.svg") no-repeat;
   background-size: 100%;
 }
 
 .rightSide .goTop i {
-  background: url("../../images/icon/svg/gotop.svg") no-repeat;
+  background: url("../images/icon/svg/gotop.svg") no-repeat;
   background-size: 100%;
 }
 
 .downBar .depositTeach {
-  background: url("../../images/icon/svg/deposit_t.svg") no-repeat;
+  background: url("../images/icon/svg/deposit_t.svg") no-repeat;
   background-size: 100%;
 }
 
 .downBar .withdrawalTeach {
-  background: url("../../images/icon/svg/withdrawal_t.svg") no-repeat;
+  background: url("../images/icon/svg/withdrawal_t.svg") no-repeat;
   background-size: 100%;
 }
 
 .downBar .walletTeach {
-  background: url("../../images/icon/svg/wallet_t.svg") no-repeat;
+  background: url("../images/icon/svg/wallet_t.svg") no-repeat;
   background-size: 100%;
 }
 
 .downBar .vip {
-  background: url("../../images/icon/svg/vip.svg") no-repeat;
+  background: url("../images/icon/svg/vip.svg") no-repeat;
   background-size: 100%;
 }
 
 footer .top button::before {
-  background: url("../../images/icon/svg/arrow_w.svg") no-repeat;
+  background: url("../images/icon/svg/arrow_w.svg") no-repeat;
   background-size: 100%;
 }
 
 .partnerBox .bng {
-  background: url("../../images/icon/bng.png") no-repeat;
+  background: url("../images/icon/bng.png") no-repeat;
   background-size: 100%;
 }
 
 .partnerBox .pls {
-  background: url("../../images/icon/pls.png") no-repeat;
+  background: url("../images/icon/pls.png") no-repeat;
   background-size: 100%;
 }
 
 .partnerBox .sp {
-  background: url("../../images/icon/sp.png") no-repeat;
+  background: url("../images/icon/sp.png") no-repeat;
   background-size: 100%;
 }
 
 .partnerBox .allbet {
-  background: url("../../images/icon/allbet.png") no-repeat;
+  background: url("../images/icon/allbet.png") no-repeat;
   background-size: 100%;
 }
 
 .partnerBox .sg {
-  background: url("../../images/icon/sg.png") no-repeat;
+  background: url("../images/icon/sg.png") no-repeat;
   background-size: 100%;
 }
 
 .partnerBox .rtg {
-  background: url("../../images/icon/rtg.png") no-repeat;
+  background: url("../images/icon/rtg.png") no-repeat;
   background-size: 100%;
 }
 
 .partnerBox .ifun {
-  background: url("../../images/icon/ifun.png") no-repeat;
+  background: url("../images/icon/ifun.png") no-repeat;
   background-size: 100%;
 }
 
 .partnerBox .wm {
-  background: url("../../images/icon/wm.png") no-repeat;
+  background: url("../images/icon/wm.png") no-repeat;
   background-size: 100%;
 }
 
 .partnerBox .gs {
-  background: url("../../images/icon/gs.png") no-repeat;
+  background: url("../images/icon/gs.png") no-repeat;
   background-size: 100%;
 }
 
 .partnerBox .iconic {
-  background: url("../../images/icon/iconic.png") no-repeat;
+  background: url("../images/icon/iconic.png") no-repeat;
   background-size: 100%;
 }
 
 .partnerBox .i36588 {
-  background: url("../../images/icon/36588.png") no-repeat;
+  background: url("../images/icon/36588.png") no-repeat;
   background-size: 100%;
 }
 
 .partnerBox .rsg {
-  background: url("../../images/icon/rsg.png") no-repeat;
+  background: url("../images/icon/rsg.png") no-repeat;
   background-size: 100%;
 }
 
@@ -173,334 +173,360 @@ footer .top button::before {
 }
 
 .footerList button i {
-  background: url("../../images/icon/svg/notice.svg") no-repeat;
+  background: url("../images/icon/svg/notice.svg") no-repeat;
   background-size: 100%;
 }
 
 .transferInfo .money i {
-  background: url("../../images/icon/svg/loading_g.svg") no-repeat;
+  background: url("../images/icon/svg/loading_g.svg") no-repeat;
   background-size: 100%;
 }
 
 header .member_ic {
-  background: url("../../images/icon/svg/member.svg") no-repeat;
+  background: url("../images/icon/svg/member.svg") no-repeat;
   background-size: 100%;
 }
 
 header .mail_ic {
-  background: url("../../images/icon/svg/letter.svg") no-repeat;
+  background: url("../images/icon/svg/letter.svg") no-repeat;
   background-size: 100%;
 }
 
 header .logout_ic {
-  background: url("../../images/icon/svg/signout.svg") no-repeat;
+  background: url("../images/icon/svg/signout.svg") no-repeat;
   background-size: 100%;
 }
 
 .jumpWindow .close_ic {
-  background: url("../../images/icon/svg/close_w.svg") no-repeat;
+  background: url("../images/icon/svg/close_w.svg") no-repeat;
   background-size: 100%;
 }
 
 .jumpWindow .close_ic_gray {
-  background: url("../../images/icon/svg/close_gray.svg") no-repeat;
+  background: url("../images/icon/svg/close_gray.svg") no-repeat;
   background-size: 100%;
 }
 
 .sportPage {
-  background: url("../../images/sport_background.png") no-repeat top center;
+  background: url("../images/sport_background.png") no-repeat top center;
   background-size: cover;
 }
 
 .livePage {
-  background: url("../../images/live_background.png") no-repeat top center;
+  background: url("../images/live_background.png") no-repeat top center;
   background-size: cover;
 }
 
 .lotteryPage {
-  background: url("../../images/lotto_background.png") no-repeat top center;
+  background: url("../images/lotto_background.png") no-repeat top center;
   background-size: cover;
 }
 
 .slotBody .search_ic {
-  background: url("../../images/icon/svg/search.svg") no-repeat top center;
+  background: url("../images/icon/svg/search.svg") no-repeat top center;
   background-size: cover;
 }
 
 .slotBody .pfName .bng_ic {
-  background: url("../../images/icon/bng_pf.png") no-repeat;
+  background: url("../images/icon/bng_pf.png") no-repeat;
+  background-size: 100%;
+}
+
+.slotBody .pfName .back {
+  background: url("../images/icon/svg/arrow_r.svg") no-repeat;
   background-size: 100%;
 }
 
 .pfName button i {
-  background: url("../../images/icon/svg/arrow_w.svg") no-repeat;
+  background: url("../images/icon/svg/arrow_w.svg") no-repeat;
   background-size: 100%;
 }
 
 .gameList .textBox .love {
-  background: url("../../images/icon/svg/love1.svg") no-repeat;
+  background: url("../images/icon/svg/love1.svg") no-repeat;
   background-size: 100%;
 }
 
 .gameList .textBox .love.active {
-  background: url("../../images/icon/svg/love2.svg") no-repeat;
+  background: url("../images/icon/svg/love2.svg") no-repeat;
   background-size: 100%;
 }
 
 .eventTitle {
-  background: url("../../images/eventTitle_bg.png") no-repeat;
+  background: url("../images/eventTitle_bg.png") no-repeat;
   background-size: cover;
 }
 
 .eventBody .event_ic {
-  background: url("../../images/icon/svg/entire.svg") no-repeat;
+  background: url("../images/icon/svg/entire.svg") no-repeat;
   background-size: 100%;
 }
 
 .eventDetail .back_ic {
-  background: url("../../images/icon/svg/return.svg") no-repeat;
+  background: url("../images/icon/svg/return.svg") no-repeat;
   background-size: 100%;
 }
 
 .innerNav .user_ic {
-  background: url("../../images/icon/svg/innerNav_user.svg") no-repeat;
+  background: url("../images/icon/svg/innerNav_user.svg") no-repeat;
   background-size: 100%;
 }
 
 .innerNav .vip_ic {
-  background: url("../../images/icon/svg/innerNav_vip.svg") no-repeat;
+  background: url("../images/icon/svg/innerNav_vip.svg") no-repeat;
   background-size: 100%;
 }
 
 .innerNav .wallet_ic {
-  background: url("../../images/icon/svg/innerNav_wallet.svg") no-repeat;
+  background: url("../images/icon/svg/innerNav_wallet.svg") no-repeat;
   background-size: 100%;
 }
 
 .innerNav .card_ic {
-  background: url("../../images/icon/svg/innerNav_card.svg") no-repeat;
+  background: url("../images/icon/svg/innerNav_card.svg") no-repeat;
   background-size: 100%;
 }
 
 .innerNav .dealRecord_ic {
-  background: url("../../images/icon/svg/innerNav_dealRecord.svg") no-repeat;
+  background: url("../images/icon/svg/innerNav_dealRecord.svg") no-repeat;
   background-size: 100%;
 }
 
 .innerNav .betRecord_ic {
-  background: url("../../images/icon/svg/innerNav_betRecord.svg") no-repeat;
+  background: url("../images/icon/svg/innerNav_betRecord.svg") no-repeat;
   background-size: 100%;
 }
 
 .innerNav .event_ic {
-  background: url("../../images/icon/svg/innerNav_event.svg") no-repeat;
+  background: url("../images/icon/svg/innerNav_event.svg") no-repeat;
   background-size: 100%;
 }
 
 .innerNav .mail_ic {
-  background: url("../../images/icon/svg/innerNav_mail.svg") no-repeat;
+  background: url("../images/icon/svg/innerNav_mail.svg") no-repeat;
   background-size: 100%;
 }
 
 .memberWrap .level .data_ic {
-  background: url("../../images/icon/svg/data.svg") no-repeat center;
+  background: url("../images/icon/svg/data.svg") no-repeat center;
   background-size: 65%;
 }
 
 .memberWrap .level .phone_ic {
-  background: url("../../images/icon/svg/phone.svg") no-repeat center;
+  background: url("../images/icon/svg/phone.svg") no-repeat center;
   background-size: 65%;
 }
 
 .memberWrap .level .bankcard_ic {
-  background: url("../../images/icon/svg/bankcard.svg") no-repeat center;
+  background: url("../images/icon/svg/bankcard.svg") no-repeat center;
   background-size: 65%;
 }
 
 .memberWrap .level .mail_ic {
-  background: url("../../images/icon/svg/mail_w.svg") no-repeat center;
+  background: url("../images/icon/svg/mail_w.svg") no-repeat center;
   background-size: 65%;
 }
 
 .vipHeader .medal {
-  background: url("../../images/icon/medal.png") no-repeat;
+  background: url("../images/icon/medal.png") no-repeat;
   background-size: 100%;
 }
 
 .vipWrap .detailTitle .back {
-  background: url("../../images/icon/svg/arrow_r.svg") no-repeat;
+  background: url("../images/icon/svg/arrow_r.svg") no-repeat;
   background-size: 100%;
 }
 
 .vipWrap .detailCardBox .prev, .vipWrap .detailCardBox .next {
-  background: url("../../images/icon/svg/arrow_r.svg") no-repeat;
+  background: url("../images/icon/svg/arrow_r.svg") no-repeat;
   background-size: 100%;
 }
 
 .vipWrap .detailCardBox .cardBg {
-  background: url("../../images/icon/vip_card.png") no-repeat;
+  background: url("../images/icon/vip_card.png") no-repeat;
   background-size: 100%;
 }
 
 .vipWrap .detailCardBox .cardBg.active {
-  background: url("../../images/icon/vip_card_red.png") no-repeat;
+  background: url("../images/icon/vip_card_red.png") no-repeat;
   background-size: 100%;
 }
 
 .vipWrap .detailCardBox .medal {
-  background: url("../../images/icon/medal.png") no-repeat;
+  background: url("../images/icon/medal.png") no-repeat;
   background-size: 100%;
 }
 
 .walletMiddle .totalTitle .icon {
-  background: url("../../images/icon/svg/problem_gray.svg") no-repeat;
+  background: url("../images/icon/svg/problem_gray.svg") no-repeat;
   background-size: 100%;
 }
 
 .walletMiddle .ableTitle .icon {
-  background: url("../../images/icon/svg/problem_gray.svg") no-repeat;
+  background: url("../images/icon/svg/problem_gray.svg") no-repeat;
   background-size: 100%;
 }
 
 .cardMiddle .card .addCard_ic {
-  background: url("../../images/icon/svg/addCard.svg") no-repeat;
+  background: url("../images/icon/svg/addCard.svg") no-repeat;
   background-size: 100%;
 }
 
 .rightSide .smallBoard .arrow {
-  background: url("../../images/icon/svg/arrow_r.svg") no-repeat;
+  background: url("../images/icon/svg/arrow_r.svg") no-repeat;
   background-size: 100%;
 }
 
 .mailWrap.innerMode .title .arrow_ic {
-  background: url("../../images/icon/svg/arrow_r.svg") no-repeat;
+  background: url("../images/icon/svg/arrow_r.svg") no-repeat;
   background-size: 100%;
 }
 
 .mailWrap.innerMode .msgTitle .prev, .mailWrap.innerMode .msgTitle .next {
-  background: url("../../images/icon/svg/arrow_g.svg") no-repeat center;
+  background: url("../images/icon/svg/arrow_g.svg") no-repeat center;
   background-size: 11px 19px;
 }
 
 .betWrap .fakeTable .arrow_ic {
-  background: url("../../images/icon/svg/arrow_r.svg") no-repeat;
+  background: url("../images/icon/svg/arrow_r.svg") no-repeat;
   background-size: 100%;
 }
 
 .depositWrap .top .title button i {
-  background: url("../../images/icon/svg/problem.svg") no-repeat;
+  background: url("../images/icon/svg/problem.svg") no-repeat;
   background-size: 100%;
 }
 
 .depositWrap .list .card_ic {
-  background: url("../../images/icon/svg/card.svg") no-repeat;
+  background: url("../images/icon/svg/card.svg") no-repeat;
   background-size: 100%;
 }
 
 .depositWrap .list .shop_ic {
-  background: url("../../images/icon/svg/shop.svg") no-repeat;
+  background: url("../images/icon/svg/shop.svg") no-repeat;
   background-size: 100%;
 }
 
 .depositWrap .list .prev, .depositWrap .list .next {
-  background: url("../../images/icon/svg/arrow_r.svg") no-repeat;
+  background: url("../images/icon/svg/arrow_r.svg") no-repeat;
   background-size: 100%;
 }
 
 .withdrawalWrap .rightSide .trans_arrow {
-  background: url("../../images/icon/svg/transfer_arrow.svg") no-repeat;
+  background: url("../images/icon/svg/transfer_arrow.svg") no-repeat;
   background-size: 100%;
 }
 
 .withdrawalWrap .smallTitle .reset_ic {
-  background: url("../../images/icon/svg/refresh.svg") no-repeat;
+  background: url("../images/icon/svg/refresh.svg") no-repeat;
   background-size: 100%;
 }
 
 .withdrawalWrap .platformBox .db_arrow {
-  background: url("../../images/icon/svg/unfold.svg") no-repeat;
+  background: url("../images/icon/svg/unfold.svg") no-repeat;
   background-size: 100%;
 }
 
 .transferWrap .walletTitle .reset_ic {
-  background: url("../../images/icon/svg/refresh.svg") no-repeat;
+  background: url("../images/icon/svg/refresh.svg") no-repeat;
   background-size: 100%;
 }
 
 .transferWrap .platform .db_arrow {
-  background: url("../../images/icon/svg/unfold.svg") no-repeat;
+  background: url("../images/icon/svg/unfold.svg") no-repeat;
   background-size: 100%;
 }
 
 .transferWrap .platformBox .trans_ic {
-  background: url("../../images/icon/svg/transfer_arrow.svg") no-repeat;
+  background: url("../images/icon/svg/transfer_arrow.svg") no-repeat;
   background-size: 100%;
 }
 
 .helpPage {
-  background: url("../../images/help_bg.png") no-repeat top center;
+  background: url("../images/help_bg.png") no-repeat top center;
   background-size: cover;
   background-attachment: fixed;
 }
 
 .helpPage .nav .arrow_ic {
-  background: url("../../images/icon/svg/arrow_r.svg") no-repeat;
+  background: url("../images/icon/svg/arrow_r.svg") no-repeat;
   background-size: 100%;
 }
 
 .helpPage .nav .bulb {
-  background: url("../../images/icon/svg/bulb.svg") no-repeat;
+  background: url("../images/icon/svg/bulb.svg") no-repeat;
   background-size: 100%;
 }
 
 .helpPage .nav .problem {
-  background: url("../../images/icon/svg/helpProblem.svg") no-repeat;
+  background: url("../images/icon/svg/helpProblem.svg") no-repeat;
   background-size: 100%;
 }
 
 .helpPage .nav .aboutUs {
-  background: url("../../images/icon/svg/aboutus.svg") no-repeat;
+  background: url("../images/icon/svg/aboutus.svg") no-repeat;
   background-size: 100%;
 }
 
 .helpPage .teachList .arrow_ic {
-  background: url("../../images/icon/svg/arrow_b.svg") no-repeat;
+  background: url("../images/icon/svg/arrow_b.svg") no-repeat;
   background-size: 100%;
 }
 
 .helpPage .img.online01 {
-  background: url("../../images/help/online01.png") no-repeat;
+  background: url("../images/help/online01.png") no-repeat;
   background-size: 100%;
 }
 
 .helpPage .img.online02 {
-  background: url("../../images/help/online02.png") no-repeat;
+  background: url("../images/help/online02.png") no-repeat;
   background-size: 100%;
 }
 
 .helpPage .img.online03 {
-  background: url("../../images/help/online03.png") no-repeat;
+  background: url("../images/help/online03.png") no-repeat;
   background-size: 100%;
 }
 
 .helpPage .img.online04 {
-  background: url("../../images/help/online04.png") no-repeat;
+  background: url("../images/help/online04.png") no-repeat;
   background-size: 100%;
 }
 
 .helpPage .img.online05 {
-  background: url("../../images/help/online05.png") no-repeat;
+  background: url("../images/help/online05.png") no-repeat;
   background-size: 100%;
 }
 
 .jumpWindow.betWindow .close_ic {
-  background: url("../../images/icon/svg/close_gray.svg") no-repeat;
+  background: url("../images/icon/svg/close_gray.svg") no-repeat;
   background-size: 100%;
 }
 
 .jumpWindow.betWindow .trans_arrow {
-  background: url("../../images/icon/svg/transfer_arrow.svg") no-repeat;
+  background: url("../images/icon/svg/transfer_arrow.svg") no-repeat;
   background-size: 100%;
+}
+
+.registerWrap {
+  background: url("../images/register_background.png") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.registerWrap .person_ic {
+  background: url("../images/icon/svg/register.svg") no-repeat;
+  background-size: 100%;
+}
+
+.registerWrap .eye {
+  background: url("../images/icon/svg/eye.svg") no-repeat;
+  background-size: 100%;
+}
+
+.registerWrap .left {
+  background: url("../images/register_background2.png") no-repeat;
+  background-size: cover;
 }
 
 header .topGameList div {
@@ -525,32 +551,32 @@ header .topGameList div img {
 }
 
 .mainWrap .typeList .sport .img {
-  background: url("../../images/入口圖/sport.png") no-repeat;
+  background: url("../images/入口圖/sport.png") no-repeat;
   background-size: 100%;
 }
 
 .mainWrap .typeList .live .img {
-  background: url("../../images/入口圖/live.png") no-repeat;
+  background: url("../images/入口圖/live.png") no-repeat;
   background-size: 100%;
 }
 
 .mainWrap .typeList .slot .img {
-  background: url("../../images/入口圖/slot.png") no-repeat;
+  background: url("../images/入口圖/slot.png") no-repeat;
   background-size: 100%;
 }
 
 .mainWrap .typeList .lottery .img {
-  background: url("../../images/入口圖/lottery.png") no-repeat;
+  background: url("../images/入口圖/lottery.png") no-repeat;
   background-size: 100%;
 }
 
 .mainWrap .typeList .fish .img {
-  background: url("../../images/入口圖/fish.png") no-repeat;
+  background: url("../images/入口圖/fish.png") no-repeat;
   background-size: 100%;
 }
 
 .mainWrap .typeList .board .img {
-  background: url("../../images/入口圖/board.png") no-repeat;
+  background: url("../images/入口圖/board.png") no-repeat;
   background-size: 100%;
 }
 
@@ -623,6 +649,16 @@ header .topGameList div img {
   width: 100%;
   height: auto;
   object-fit: cover;
+}
+
+header .logo {
+  width: 119px;
+  height: 53px;
+}
+
+.registerWrap .left img {
+  width: 120px;
+  height: 53px;
 }
 
 /* http://meyerweb.com/eric/tools/css/reset/ 
@@ -806,11 +842,11 @@ html body header .top .user li:not(.platform) .loginForm button {
   height: 30px;
   background: #e11515;
   border: solid 1px #f56d5c;
+  border-radius: 3px;
   color: #ffffff;
+  font-size: 14px;
   font-weight: bold;
   padding: 0 16px;
-  font-size: 14px;
-  border-radius: 3px;
 }
 html body header .top .user li:not(.platform) .lv {
   color: #f6cb27;
@@ -870,7 +906,7 @@ html body header .top .user li:not(.platform).moneyTotal .transferInfo {
   height: auto;
   font-weight: bold;
   background: #666666;
-  border: solid 1px #4c4c4c;
+  border: solid 1px #737373;
   position: absolute;
   top: 45px;
   left: 0px;
@@ -960,10 +996,6 @@ html body header .gameNav .center {
   align-items: center;
   justify-content: space-between;
 }
-html body header .gameNav .center .logo {
-  width: 119px;
-  height: 53px;
-}
 html body header .gameNav .center ul {
   width: auto;
   height: 100%;
@@ -1043,7 +1075,7 @@ html body header .topGameList .listWrap {
   width: 100%;
   height: 170px;
   box-sizing: border-box;
-  border-top: solid 1px #f3f3f3;
+  border-top: solid 1px #e6e6e6;
   background: #ffffff;
 }
 html body header .topGameList .listWrap .center {
@@ -1190,7 +1222,7 @@ html body .mainWrap {
   width: 100%;
   height: auto;
   padding: 50px 0;
-  background: #f2f2f2;
+  background: #f4f4f4;
 }
 html body .mainWrap .center {
   width: 1400px;
@@ -1228,11 +1260,11 @@ html body .mainWrap .center .typeList li .wordBox p {
 }
 html body .mainWrap .center .typeList li .wordBox p.game {
   font-size: 42px;
-  color: #333333;
+  color: #272727;
 }
 html body .mainWrap .center .typeList li .wordBox p.type {
   font-size: 23px;
-  color: #ed1c24;
+  color: #e11515;
 }
 html body .mainWrap .center .downBar {
   width: 100%;
@@ -1251,7 +1283,7 @@ html body .mainWrap .center .downBar li {
   justify-content: center;
   font-weight: bold;
   color: #000000;
-  border-right: solid 1px #ebebeb;
+  border-right: solid 1px #e6e6e6;
   cursor: pointer;
 }
 html body .mainWrap .center .downBar li:last-child {
@@ -1351,10 +1383,10 @@ html body footer .footerList .center ul li button {
   margin-bottom: 10px;
   background: none;
   border: solid 1px #e98a8a;
-  color: #ffffff;
-  letter-spacing: 1px;
   border-radius: 3px;
+  color: #ffffff;
   font-size: 14px;
+  letter-spacing: 1px;
 }
 html body footer .footerList .center ul li button:hover, html body footer .footerList .center ul li button:active, html body footer .footerList .center ul li button.active {
   background: #a31414;
@@ -1417,9 +1449,9 @@ html body .filter .jumpWindow.forgetPassword form button {
   border: solid 1px #cca172;
   border-radius: 3px;
   color: #ffffff;
+  font-size: 14px;
   font-weight: bold;
   letter-spacing: 1px;
-  font-size: 14px;
 }
 html body .filter .jumpWindow.forgetPassword form button:hover, html body .filter .jumpWindow.forgetPassword form button:active, html body .filter .jumpWindow.forgetPassword form button.active {
   background: linear-gradient(to top, #f1d7b7 0%, #cca172 50%, #f1c999 100%);
@@ -1427,7 +1459,7 @@ html body .filter .jumpWindow.forgetPassword form button:hover, html body .filte
 html body .filter .jumpWindow.forgetPassword form p {
   font-size: 14px;
   margin: 30px 0;
-  color: #b0b0b1;
+  color: #999999;
 }
 html body .filter .jumpWindow.news {
   display: none;
@@ -1459,7 +1491,7 @@ html body .filter .jumpWindow.news .nav li {
   padding: 0 40px;
   cursor: pointer;
   border-bottom: solid 3px transparent;
-  color: #808080;
+  color: #999999;
   display: flex;
   align-items: center;
 }
@@ -1475,7 +1507,7 @@ html body .filter .jumpWindow.news .nav li::before {
   top: 50%;
   transform: translateY(-50%);
   right: -1px;
-  background: #ececec;
+  background: #e6e6e6;
 }
 html body .filter .jumpWindow.news .content {
   display: none;
@@ -1511,39 +1543,39 @@ html body .filter .jumpWindow.news .content li div p.text {
   font-size: 16px;
 }
 html body .filter .jumpWindow.news .content li div p.date {
-  color: #808080;
+  color: #999999;
   font-size: 14px;
 }
-html body .filter .jumpWindow.plsLogin, html body .filter .jumpWindow.plsGo, html body .filter .jumpWindow.noAccount {
+html body .filter .jumpWindow.plsGo {
   display: none;
 }
-html body .filter .jumpWindow.plsLogin.display, html body .filter .jumpWindow.plsGo.display, html body .filter .jumpWindow.noAccount.display {
+html body .filter .jumpWindow.plsGo.display {
   display: block;
 }
-html body .filter .jumpWindow.plsLogin .content, html body .filter .jumpWindow.plsGo .content, html body .filter .jumpWindow.noAccount .content {
-  color: #333333;
+html body .filter .jumpWindow.plsGo .content {
+  color: #272727;
   font-size: 16px;
   padding: 24px 80px;
   letter-spacing: 1px;
   font-weight: bold;
   text-align: center;
 }
-html body .filter .jumpWindow.plsLogin .btnBox, html body .filter .jumpWindow.plsGo .btnBox, html body .filter .jumpWindow.noAccount .btnBox {
+html body .filter .jumpWindow.plsGo .btnBox {
   text-align: center;
   padding: 20px 0;
 }
-html body .filter .jumpWindow.plsLogin .btnBox button, html body .filter .jumpWindow.plsGo .btnBox button, html body .filter .jumpWindow.noAccount .btnBox button {
+html body .filter .jumpWindow.plsGo .btnBox button {
   width: 322px;
   height: 42px;
   background: linear-gradient(to bottom, #f1d7b7 0%, #cca172 50%, #f1c999 100%);
   border: solid 1px #cca172;
   border-radius: 3px;
   color: #ffffff;
+  font-size: 14px;
   font-weight: bold;
   letter-spacing: 1px;
-  font-size: 14px;
 }
-html body .filter .jumpWindow.plsLogin .btnBox button:hover, html body .filter .jumpWindow.plsLogin .btnBox button:active, html body .filter .jumpWindow.plsLogin .btnBox button.active, html body .filter .jumpWindow.plsGo .btnBox button:hover, html body .filter .jumpWindow.plsGo .btnBox button:active, html body .filter .jumpWindow.plsGo .btnBox button.active, html body .filter .jumpWindow.noAccount .btnBox button:hover, html body .filter .jumpWindow.noAccount .btnBox button:active, html body .filter .jumpWindow.noAccount .btnBox button.active {
+html body .filter .jumpWindow.plsGo .btnBox button:hover, html body .filter .jumpWindow.plsGo .btnBox button:active, html body .filter .jumpWindow.plsGo .btnBox button.active {
   background: linear-gradient(to top, #f1d7b7 0%, #cca172 50%, #f1c999 100%);
 }
 html body .filter .jumpWindow.score {
@@ -1560,7 +1592,7 @@ html body .filter .jumpWindow.score .total {
   justify-content: center;
   align-items: center;
   padding: 15px 0;
-  border-bottom: solid 1px #ececec;
+  border-bottom: solid 1px #e6e6e6;
   font-size: 16px;
   color: #000000;
 }
@@ -1623,7 +1655,7 @@ html body .filter .jumpWindow.score ul li div.point .notice {
 html body .filter .jumpWindow.score ul li div.point .notice p {
   width: 100%;
   height: 100%;
-  background: #c9a072;
+  background: #cca172;
   border-radius: 3px;
   display: flex;
   align-items: center;
@@ -1639,7 +1671,7 @@ html body .filter .jumpWindow.score ul li div.point .notice p i {
   height: 0px;
   border-style: solid;
   border-width: 0px 6px 8px;
-  border-color: #c9a072 transparent;
+  border-color: #cca172 transparent;
 }
 html body .filter .jumpWindow.passwordWindow form .content {
   width: 100%;
@@ -1678,9 +1710,9 @@ html body .filter .jumpWindow.passwordWindow form .btnBox button {
   border: solid 1px #cca172;
   border-radius: 3px;
   color: #ffffff;
+  font-size: 14px;
   font-weight: bold;
   letter-spacing: 1px;
-  font-size: 14px;
 }
 html body .filter .jumpWindow.passwordWindow form .btnBox button:hover, html body .filter .jumpWindow.passwordWindow form .btnBox button:active, html body .filter .jumpWindow.passwordWindow form .btnBox button.active {
   background: linear-gradient(to top, #f1d7b7 0%, #cca172 50%, #f1c999 100%);
@@ -1753,7 +1785,7 @@ html body .filter .jumpWindow.checkEvent .content .imgBox {
 html body .filter .jumpWindow.checkEvent .content p {
   font-size: 16px;
   letter-spacing: 1px;
-  color: #333333;
+  color: #272727;
   margin-top: 10px;
 }
 html body .filter .jumpWindow.checkEvent .btnBox {
@@ -1769,9 +1801,9 @@ html body .filter .jumpWindow.checkEvent .btnBox button {
   border: solid 1px #cca172;
   border-radius: 3px;
   color: #ffffff;
+  font-size: 14px;
   font-weight: bold;
   letter-spacing: 1px;
-  font-size: 14px;
 }
 html body .filter .jumpWindow.checkEvent .btnBox button:hover, html body .filter .jumpWindow.checkEvent .btnBox button:active, html body .filter .jumpWindow.checkEvent .btnBox button.active {
   background: linear-gradient(to top, #f1d7b7 0%, #cca172 50%, #f1c999 100%);
@@ -1852,18 +1884,18 @@ html body .filter .jumpWindow.betWindow form .row .btnBox {
 html body .filter .jumpWindow.betWindow form .row .btnBox button {
   width: 85px;
   height: 32px;
-  background: linear-gradient(to bottom, #ffffff 40%, #f4f4f4 100%);
-  border: solid 1px #e6e6e6;
-  border-radius: 2px;
-  color: #333333;
-  font-weight: bold;
   font-size: 15px;
+  font-weight: bold;
+  color: #000000;
+  background: linear-gradient(to bottom, #ffffff 40%, #f4f4f4 100%);
+  border: solid 1px #e8e8e8;
+  border-radius: 3px;
+  letter-spacing: 1px;
   margin: 0 2px 6px 0;
 }
 html body .filter .jumpWindow.betWindow form .row .btnBox button:hover, html body .filter .jumpWindow.betWindow form .row .btnBox button:active, html body .filter .jumpWindow.betWindow form .row .btnBox button.active {
-  background: #ffffff;
-  color: #e11515;
-  border-color: #e11515;
+  background: #e11515;
+  color: #ffffff;
 }
 html body .filter .jumpWindow.betWindow form .row .btnBox button:nth-of-type(3n) {
   margin-right: 0;
@@ -1875,9 +1907,9 @@ html body .filter .jumpWindow.betWindow form .row .check {
   border: solid 1px #cca172;
   border-radius: 3px;
   color: #ffffff;
+  font-size: 14px;
   font-weight: bold;
   letter-spacing: 1px;
-  font-size: 14px;
   margin-bottom: 20px;
 }
 html body .filter .jumpWindow.betWindow form .row .check:hover, html body .filter .jumpWindow.betWindow form .row .check:active, html body .filter .jumpWindow.betWindow form .row .check.active {
@@ -1888,7 +1920,7 @@ html body .filter .jumpWindow.betWindow .enterGame {
   height: auto;
   text-align: center;
   padding: 20px 0;
-  border-top: solid 1px #e9e9e9;
+  border-top: solid 1px #e6e6e6;
 }
 html body .filter .jumpWindow.betWindow .enterGame button {
   width: 351px;
@@ -1897,9 +1929,9 @@ html body .filter .jumpWindow.betWindow .enterGame button {
   border: solid 1px #cca172;
   border-radius: 3px;
   color: #ffffff;
+  font-size: 14px;
   font-weight: bold;
   letter-spacing: 1px;
-  font-size: 14px;
 }
 html body .filter .jumpWindow.betWindow .enterGame button:hover, html body .filter .jumpWindow.betWindow .enterGame button:active, html body .filter .jumpWindow.betWindow .enterGame button.active {
   background: linear-gradient(to top, #f1d7b7 0%, #cca172 50%, #f1c999 100%);
@@ -1930,7 +1962,7 @@ html body .filter .jumpWindow .title i {
 }
 html body .gameWrap {
   padding-bottom: 66px;
-  background: #f2f2f2;
+  background: #f4f4f4;
 }
 html body .gameWrap .content {
   width: 100%;
@@ -1979,7 +2011,7 @@ html body .gameWrap .content .textBox .mainCnt {
   line-height: 24px;
   font-size: 14px;
   font-weight: bold;
-  color: #666666;
+  color: #4d4d4d;
 }
 html body .gameWrap .content .btnBox {
   width: auto;
@@ -2007,7 +2039,7 @@ html body .gameWrap .content .btnBox .innBox ul li p {
   padding-top: 10px;
 }
 html body .gameWrap .content .btnBox .innBox ul li .imgBox {
-  border: solid 1px #f4f4f4;
+  border: solid 1px #e6e6e6;
   border-radius: 5px;
   box-shadow: 0 5px 10px 0 #c0c0c0;
   background: linear-gradient(to bottom, #ffffff 0%, #e6e6e6 100%);
@@ -2042,7 +2074,7 @@ html body .gameWrap .slotCenter .slotBody .nav ul {
   display: flex;
 }
 html body .gameWrap .slotCenter .slotBody .nav ul li {
-  color: #808080;
+  color: #999999;
   width: auto;
   height: calc(100% - 3px);
   padding: 0 50px;
@@ -2102,6 +2134,10 @@ html body .gameWrap .slotCenter .slotBody .gameBox .platformBox {
 }
 html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms {
   margin-bottom: 50px;
+  display: none;
+}
+html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms.display {
+  display: block;
 }
 html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .pfName {
   width: 100%;
@@ -2111,22 +2147,37 @@ html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .pfNa
   justify-content: space-between;
   align-items: center;
 }
-html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .pfName button {
+html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .pfName.active {
+  justify-content: flex-start;
+}
+html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .pfName.active .back {
+  display: block;
+}
+html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .pfName.active .all {
+  display: none;
+}
+html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .pfName .back {
+  display: none;
+  width: 18px;
+  height: 32px;
+  margin-right: 20px;
+}
+html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .pfName .all {
   background: linear-gradient(to bottom, #f1d7b7 0%, #cca172 50%, #f1c999 100%);
   border: solid 1px #cca172;
   border-radius: 3px;
   color: #ffffff;
+  font-size: 14px;
   font-weight: bold;
   letter-spacing: 1px;
-  font-size: 14px;
   width: 137px;
   height: 40px;
   font-size: 18px;
 }
-html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .pfName button:hover, html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .pfName button:active, html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .pfName button.active {
+html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .pfName .all:hover, html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .pfName .all:active, html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .pfName .all.active {
   background: linear-gradient(to top, #f1d7b7 0%, #cca172 50%, #f1c999 100%);
 }
-html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .pfName button i {
+html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .pfName .all i {
   display: inline-block;
   width: 8px;
   height: 15px;
@@ -2135,9 +2186,14 @@ html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .pfNa
 }
 html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .gameList {
   width: 100%;
-  height: auto;
-  display: flex;
+  height: 200px;
   justify-content: flex-start;
+  flex-wrap: wrap;
+  overflow: hidden;
+  display: flex;
+}
+html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .gameList.active {
+  height: auto;
 }
 html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .gameList li {
   width: 250px;
@@ -2149,10 +2205,10 @@ html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .game
   box-sizing: border-box;
   font-size: 0px;
   position: relative;
-  margin-right: 15px;
+  margin: 0 13px 13px 0;
 }
-html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .gameList li:last-child {
-  margin: 0;
+html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .gameList li:nth-of-type(5n) {
+  margin-right: 0;
 }
 html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .gameList li:hover .btnBox, html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .gameList li:active .btnBox, html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .gameList li.active .btnBox {
   opacity: 1;
@@ -2198,24 +2254,24 @@ html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .game
   width: 140px;
   height: 40px;
   background: linear-gradient(to top, #801c1c 0%, #f13945 100%);
-  border-radius: 3px;
   border: solid 1px #f56d5c;
+  border-radius: 3px;
   color: #ffffff;
+  font-size: 16px;
   font-weight: bold;
   letter-spacing: 1px;
-  font-size: 16px;
 }
 html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .gameList li .btnBox button:hover, html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .gameList li .btnBox button:active, html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .gameList li .btnBox button.active {
   background: #5a0c0c;
 }
 html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .gameList li .btnBox button:last-child {
   background: linear-gradient(to top, #324ab9 0%, #6a91f3 100%);
-  border-radius: 3px;
   border: solid 1px #5c8df5;
+  border-radius: 3px;
   color: #ffffff;
+  font-size: 16px;
   font-weight: bold;
   letter-spacing: 1px;
-  font-size: 16px;
 }
 html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .gameList li .btnBox button:last-child:hover, html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .gameList li .btnBox button:last-child:active, html body .gameWrap .slotCenter .slotBody .gameBox .platformBox .platforms .gameList li .btnBox button:last-child.active {
   background: #0e1c5e;
@@ -2238,7 +2294,7 @@ html body .gameWrap .downBar li {
   justify-content: center;
   font-weight: bold;
   color: #000000;
-  border-right: solid 1px #ebebeb;
+  border-right: solid 1px #e6e6e6;
   cursor: pointer;
 }
 html body .gameWrap .downBar li:last-child {
@@ -2355,10 +2411,10 @@ html body .eventWrap .eventBody .eventList .eventBox ul .btnBox button {
   width: 117px;
   height: 37px;
   background: linear-gradient(to bottom, #9ddbec 0%, #0282cc 50%, #82aeeb 100%);
+  border: solid 1px #0282cc;
+  border-radius: 3px;
   color: #ffffff;
   font-size: 14px;
-  border-radius: 3px;
-  border: solid 1px #0282cc;
 }
 html body .eventWrap .eventBody .eventList .eventBox ul .btnBox button:hover, html body .eventWrap .eventBody .eventList .eventBox ul .btnBox button:active, html body .eventWrap .eventBody .eventList .eventBox ul .btnBox button.active {
   background: linear-gradient(to top, #9ddbec 0%, #0282cc 50%, #82aeeb 100%);
@@ -2378,7 +2434,7 @@ html body .eventWrap .eventBody .eventDetail .title {
 html body .eventWrap .eventBody .eventDetail .title p {
   font-size: 34px;
   font-weight: bold;
-  color: #333333;
+  color: #272727;
 }
 html body .eventWrap .eventBody .eventDetail .title button {
   width: 135px;
@@ -2637,13 +2693,13 @@ html body .innerPage .center .memberWrap .top .content p.remind {
   color: #999999;
 }
 html body .innerPage .center .memberWrap .top .content p em.low {
-  color: #ff0000;
+  color: #e11515;
 }
 html body .innerPage .center .memberWrap .top .content p em.middle {
   color: #ff8d68;
 }
 html body .innerPage .center .memberWrap .top .content p em.high {
-  color: #5aa960;
+  color: #00a99d;
 }
 html body .innerPage .center .memberWrap .top .content .level {
   margin-top: 14px;
@@ -2751,7 +2807,7 @@ html body .innerPage .center .memberWrap .bottom .dataWrap .content .fakeTable l
   padding: 0;
 }
 html body .innerPage .center .memberWrap .bottom .dataWrap .content .fakeTable li.left form ul li .remind.np span {
-  color: #29abe2;
+  color: #55aaff;
 }
 html body .innerPage .center .memberWrap .bottom .dataWrap .content .fakeTable li.left form ul li button {
   width: 257px;
@@ -2762,9 +2818,9 @@ html body .innerPage .center .memberWrap .bottom .dataWrap .content .fakeTable l
   border: solid 1px #cca172;
   border-radius: 3px;
   color: #ffffff;
+  font-size: 14px;
   font-weight: bold;
   letter-spacing: 1px;
-  font-size: 14px;
 }
 html body .innerPage .center .memberWrap .bottom .dataWrap .content .fakeTable li.left form ul li button:hover, html body .innerPage .center .memberWrap .bottom .dataWrap .content .fakeTable li.left form ul li button:active, html body .innerPage .center .memberWrap .bottom .dataWrap .content .fakeTable li.left form ul li button.active {
   background: linear-gradient(to top, #f1d7b7 0%, #cca172 50%, #f1c999 100%);
@@ -2795,13 +2851,15 @@ html body .innerPage .center .memberWrap .bottom .dataWrap .content .fakeTable l
   top: 50%;
   transform: translateY(-50%);
   padding: 0 10px;
-  font-size: 15px;
-  color: #cfa678;
-  border: solid 1px #cfa678;
+  background: none;
+  border: solid 1px #cca172;
   border-radius: 3px;
-  background: #ffffff;
+  color: #cca172;
+  letter-spacing: 1px;
   display: flex;
   align-items: center;
+  text-align: center;
+  justify-content: center;
   white-space: nowrap;
 }
 html body .innerPage .center .memberWrap .bottom .dataWrap .content .fakeTable li.right ul li .copy:hover, html body .innerPage .center .memberWrap .bottom .dataWrap .content .fakeTable li.right ul li .copy:active, html body .innerPage .center .memberWrap .bottom .dataWrap .content .fakeTable li.right ul li .copy.active {
@@ -2872,9 +2930,9 @@ html body .innerPage .center .memberWrap .bottom .dataWrap .changePassword ul li
   border: solid 1px #cca172;
   border-radius: 3px;
   color: #ffffff;
+  font-size: 14px;
   font-weight: bold;
   letter-spacing: 1px;
-  font-size: 14px;
 }
 html body .innerPage .center .memberWrap .bottom .dataWrap .changePassword ul li button:hover, html body .innerPage .center .memberWrap .bottom .dataWrap .changePassword ul li button:active, html body .innerPage .center .memberWrap .bottom .dataWrap .changePassword ul li button.active {
   background: linear-gradient(to top, #f1d7b7 0%, #cca172 50%, #f1c999 100%);
@@ -3010,7 +3068,7 @@ html body .innerPage .center .vipWrap .lvGraph .bar {
 html body .innerPage .center .vipWrap .lvGraph .bar li {
   width: 20%;
   height: 100%;
-  background: #f2f2f2;
+  background: #f4f4f4;
 }
 html body .innerPage .center .vipWrap .lvGraph .bar li.active {
   background: #e11515;
@@ -3064,20 +3122,29 @@ html body .innerPage .center .vipWrap .nextBox .nextBar button {
 }
 html body .innerPage .center .vipWrap .nextBox .nextBar button.check {
   margin: 0 14px 0px 30px;
+  padding: 0 10px;
   background: none;
   border: solid 1px #cca172;
   border-radius: 3px;
   color: #cca172;
   letter-spacing: 1px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+html body .innerPage .center .vipWrap .nextBox .nextBar button.check:hover, html body .innerPage .center .vipWrap .nextBox .nextBar button.check:active, html body .innerPage .center .vipWrap .nextBox .nextBar button.check.active {
+  opacity: 0.8;
 }
 html body .innerPage .center .vipWrap .nextBox .nextBar button.levelUp {
   background: linear-gradient(to bottom, #f1d7b7 0%, #cca172 50%, #f1c999 100%);
   border: solid 1px #cca172;
   border-radius: 3px;
   color: #ffffff;
+  font-size: 14px;
   font-weight: bold;
   letter-spacing: 1px;
-  font-size: 14px;
 }
 html body .innerPage .center .vipWrap .nextBox .nextBar button.levelUp:hover, html body .innerPage .center .vipWrap .nextBox .nextBar button.levelUp:active, html body .innerPage .center .vipWrap .nextBox .nextBar button.levelUp.active {
   background: linear-gradient(to top, #f1d7b7 0%, #cca172 50%, #f1c999 100%);
@@ -3105,7 +3172,7 @@ html body .innerPage .center .vipWrap .levelEnjoy ul {
 }
 html body .innerPage .center .vipWrap .levelEnjoy ul li {
   width: calc(33.3% - 1px);
-  border-right: solid 1px #e9e9e9;
+  border-right: solid 1px #e6e6e6;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -3132,11 +3199,20 @@ html body .innerPage .center .vipWrap .levelEnjoy .more {
   width: 321px;
   height: 41px;
   margin: 40px auto 44px;
+  padding: 0 10px;
   background: none;
   border: solid 1px #cca172;
   border-radius: 3px;
   color: #cca172;
   letter-spacing: 1px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+html body .innerPage .center .vipWrap .levelEnjoy .more:hover, html body .innerPage .center .vipWrap .levelEnjoy .more:active, html body .innerPage .center .vipWrap .levelEnjoy .more.active {
+  opacity: 0.8;
 }
 html body .innerPage .center .vipWrap .detailTitle {
   display: flex;
@@ -3201,7 +3277,7 @@ html body .innerPage .center .vipWrap .detailCardBox .wrap ul li .cardBg {
   padding: 0 10px;
 }
 html body .innerPage .center .vipWrap .detailCardBox .wrap ul li .cardBg.active .content div .text {
-  color: #f2bdbf;
+  color: #ffffff;
 }
 html body .innerPage .center .vipWrap .detailCardBox .wrap ul li .cardBg.active .content div .num {
   color: #ffffff;
@@ -3342,7 +3418,7 @@ html body .innerPage .center .walletWrap .walletMiddle .top .content .total .tot
   margin-bottom: 11px;
   font-size: 17px;
   letter-spacing: 2px;
-  color: #009245;
+  color: #00a99d;
   font-weight: bold;
 }
 html body .innerPage .center .walletWrap .walletMiddle .top .content .total .totalTitle .icon {
@@ -3364,7 +3440,7 @@ html body .innerPage .center .walletWrap .walletMiddle .top .content .total .tot
   width: 240px;
   height: 31px;
   align-items: center;
-  background: #c9a072;
+  background: #cca172;
   border-radius: 3px;
 }
 html body .innerPage .center .walletWrap .walletMiddle .top .content .total .totalTitle .icon .jumpRemind p {
@@ -3382,7 +3458,7 @@ html body .innerPage .center .walletWrap .walletMiddle .top .content .total .tot
   left: -8px;
   border-style: solid;
   border-width: 6px 8px 6px 0px;
-  border-color: transparent #c9a072;
+  border-color: transparent #cca172;
 }
 html body .innerPage .center .walletWrap .walletMiddle .top .content .total .amount {
   width: 100%;
@@ -3429,7 +3505,7 @@ html body .innerPage .center .walletWrap .walletMiddle .top .content .able .able
   width: 240px;
   height: 31px;
   align-items: center;
-  background: #c9a072;
+  background: #cca172;
   border-radius: 3px;
 }
 html body .innerPage .center .walletWrap .walletMiddle .top .content .able .ableTitle .icon .jumpRemind p {
@@ -3447,7 +3523,7 @@ html body .innerPage .center .walletWrap .walletMiddle .top .content .able .able
   left: -8px;
   border-style: solid;
   border-width: 6px 8px 6px 0px;
-  border-color: transparent #c9a072;
+  border-color: transparent #cca172;
 }
 html body .innerPage .center .walletWrap .walletMiddle .top .content .able .amount {
   width: 100%;
@@ -3525,7 +3601,7 @@ html body .innerPage .center .walletWrap .walletMiddle .bottom .activeWallet .wa
   margin-top: 10px;
 }
 html body .innerPage .center .walletWrap .walletMiddle .bottom .activeWallet .walletDetail li, html body .innerPage .center .walletWrap .walletMiddle .bottom .historyWallet .walletDetail li {
-  border-bottom: solid 2px #f3f3f3;
+  border-bottom: solid 2px #e6e6e6;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -3598,7 +3674,7 @@ html body .innerPage .center .walletWrap .walletMiddle .bottom .activeWallet .wa
   letter-spacing: 1px;
   font-weight: bold;
   margin-top: 3px;
-  color: #808080;
+  color: #999999;
 }
 html body .innerPage .center .walletWrap .walletMiddle .bottom .activeWallet .walletDetail li div:nth-of-type(5), html body .innerPage .center .walletWrap .walletMiddle .bottom .historyWallet .walletDetail li div:nth-of-type(5) {
   width: 212px;
@@ -3608,11 +3684,20 @@ html body .innerPage .center .walletWrap .walletMiddle .bottom .activeWallet .wa
   width: 71px;
   height: 31px;
   margin-right: 10px;
+  padding: 0 10px;
   background: none;
   border: solid 1px #cca172;
   border-radius: 3px;
   color: #cca172;
   letter-spacing: 1px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+html body .innerPage .center .walletWrap .walletMiddle .bottom .activeWallet .walletDetail li div:nth-of-type(5) .record:hover, html body .innerPage .center .walletWrap .walletMiddle .bottom .activeWallet .walletDetail li div:nth-of-type(5) .record:active, html body .innerPage .center .walletWrap .walletMiddle .bottom .activeWallet .walletDetail li div:nth-of-type(5) .record.active, html body .innerPage .center .walletWrap .walletMiddle .bottom .historyWallet .walletDetail li div:nth-of-type(5) .record:hover, html body .innerPage .center .walletWrap .walletMiddle .bottom .historyWallet .walletDetail li div:nth-of-type(5) .record:active, html body .innerPage .center .walletWrap .walletMiddle .bottom .historyWallet .walletDetail li div:nth-of-type(5) .record.active {
+  opacity: 0.8;
 }
 html body .innerPage .center .walletWrap .walletMiddle .bottom .activeWallet .walletDetail li div:nth-of-type(5) .trans, html body .innerPage .center .walletWrap .walletMiddle .bottom .historyWallet .walletDetail li div:nth-of-type(5) .trans {
   width: 97px;
@@ -3727,11 +3812,11 @@ html body .innerPage .center .cardWrap .cardMiddle .top .content .title span {
 }
 html body .innerPage .center .cardWrap .cardMiddle .top .content .title span:nth-of-type(2) {
   font-size: 15px;
-  color: #808080;
+  color: #999999;
 }
 html body .innerPage .center .cardWrap .cardMiddle .top .content .title span:nth-of-type(2) span {
   font-size: 15px;
-  color: #808080;
+  color: #999999;
 }
 html body .innerPage .center .cardWrap .cardMiddle .top .content .cardBox {
   width: 100%;
@@ -3748,7 +3833,7 @@ html body .innerPage .center .cardWrap .cardMiddle .top .content .cardBox .slide
   height: 150px;
   border-radius: 10px;
   box-sizing: border-box;
-  box-shadow: 0 2px 5px 2px #dedede;
+  box-shadow: 0 2px 5px 2px #c0c0c0;
   display: flex;
   flex-direction: column;
   margin-right: 15px;
@@ -3807,7 +3892,7 @@ html body .innerPage .center .cardWrap .cardMiddle .top .content .cardBox .slide
   text-align: center;
   letter-spacing: 1px;
   background: #ffffff;
-  color: #f1c999;
+  color: #cfa678;
   font-size: 16px;
   border-radius: 0 0 5px 5px;
   margin-top: 4px;
@@ -3920,9 +4005,9 @@ html body .innerPage .center .cardWrap .cardMiddle .bottomWrap .bottom div .form
   border: solid 1px #cca172;
   border-radius: 3px;
   color: #ffffff;
+  font-size: 14px;
   font-weight: bold;
   letter-spacing: 1px;
-  font-size: 14px;
 }
 html body .innerPage .center .cardWrap .cardMiddle .bottomWrap .bottom div .formBox form .content .row .inputBox button:hover, html body .innerPage .center .cardWrap .cardMiddle .bottomWrap .bottom div .formBox form .content .row .inputBox button:active, html body .innerPage .center .cardWrap .cardMiddle .bottomWrap .bottom div .formBox form .content .row .inputBox button.active {
   background: linear-gradient(to top, #f1d7b7 0%, #cca172 50%, #f1c999 100%);
@@ -3961,7 +4046,7 @@ html body .innerPage .center .rightSide .smallBoard .title .more {
   display: flex;
   align-items: center;
   letter-spacing: 1px;
-  color: #333333;
+  color: #272727;
   cursor: pointer;
 }
 html body .innerPage .center .rightSide .smallBoard .title .more .arrow {
@@ -4052,7 +4137,7 @@ html body .innerPage .center .rightSide .smallBoard .list .smallList ul li p:nth
 html body .innerPage .center .rightSide .smallBoard .list .smallList ul li p:last-child {
   font-size: 14px;
   margin-top: 6px;
-  color: #333333;
+  color: #272727;
 }
 html body .innerPage .center .rightSide .smallBoard .list .noData {
   display: none;
@@ -4318,6 +4403,8 @@ html body .innerPage .center .mailWrap .bottom .list .btnBox .all {
   margin: 20px 34px 0 0;
   display: flex;
   align-items: center;
+  color: #999999;
+  font-size: 16px;
 }
 html body .innerPage .center .mailWrap .bottom .list .btnBox .all input {
   position: relative;
@@ -4333,7 +4420,7 @@ html body .innerPage .center .mailWrap .bottom .list .btnBox .all input::after {
   transform: translate(-50%, -50%);
   background: #ffffff;
   border-radius: 50%;
-  border: 2px solid #ececec;
+  border: 2px solid #e6e6e6;
 }
 html body .innerPage .center .mailWrap .bottom .list .btnBox .all input:checked::before {
   content: "";
@@ -4357,11 +4444,7 @@ html body .innerPage .center .mailWrap .bottom .list .btnBox .all input:checked:
   transform: translate(-50%, -50%);
   background: #ffffff;
   border-radius: 50%;
-  border: 2px solid #ececec;
-}
-html body .innerPage .center .mailWrap .bottom .list .btnBox .all span {
-  color: #888888;
-  font-size: 16px;
+  border: 2px solid #e6e6e6;
 }
 html body .innerPage .center .mailWrap .bottom .list ul li {
   height: 46px;
@@ -4371,7 +4454,7 @@ html body .innerPage .center .mailWrap .bottom .list ul li {
   cursor: pointer;
 }
 html body .innerPage .center .mailWrap .bottom .list ul li:hover, html body .innerPage .center .mailWrap .bottom .list ul li:active, html body .innerPage .center .mailWrap .bottom .list ul li.active {
-  background: #f9f9f9;
+  background: #f4f4f4;
 }
 html body .innerPage .center .mailWrap .bottom .list ul li .title {
   width: 70%;
@@ -4389,7 +4472,7 @@ html body .innerPage .center .mailWrap .bottom .list ul li .title::before {
   right: 0;
   width: 1px;
   height: 15px;
-  background: #cacaca;
+  background: #b3b3b3;
 }
 html body .innerPage .center .mailWrap .bottom .list ul li .date {
   width: 30%;
@@ -4489,13 +4572,13 @@ html body .innerPage .center .eventWrap .eventMiddle .eventBox ul li .header div
   align-items: center;
 }
 html body .innerPage .center .eventWrap .eventMiddle .eventBox ul li .header div p.first {
-  color: #666666;
+  color: #4d4d4d;
 }
 html body .innerPage .center .eventWrap .eventMiddle .eventBox ul li .header div p span {
-  color: #666666;
+  color: #4d4d4d;
 }
 html body .innerPage .center .eventWrap .eventMiddle .eventBox ul li .header div p span.now {
-  color: #46a877;
+  color: #00a99d;
 }
 html body .innerPage .center .eventWrap .eventMiddle .eventBox ul li .header div p span.split {
   margin: 0 10px;
@@ -4546,10 +4629,10 @@ html body .innerPage .center .eventWrap .eventMiddle .eventBox ul li .content ul
 }
 html body .innerPage .center .eventWrap .eventMiddle .eventBox ul li .content ul li p.smallTitle {
   margin-right: 25px;
-  color: #666666;
+  color: #4d4d4d;
 }
 html body .innerPage .center .eventWrap .eventMiddle .eventBox ul li .content ul li p.cur {
-  color: #ff7f46;
+  color: #ff8d68;
 }
 html body .innerPage .center .eventWrap .eventMiddle .eventRecord {
   display: none;
@@ -4681,9 +4764,9 @@ html body .innerPage .center .eventWrap .eventMiddle .eventRecord .recordWrap .s
   border: solid 1px #cca172;
   border-radius: 3px;
   color: #ffffff;
+  font-size: 14px;
   font-weight: bold;
   letter-spacing: 1px;
-  font-size: 14px;
 }
 html body .innerPage .center .eventWrap .eventMiddle .eventRecord .recordWrap .search form .checkBtn button:hover, html body .innerPage .center .eventWrap .eventMiddle .eventRecord .recordWrap .search form .checkBtn button:active, html body .innerPage .center .eventWrap .eventMiddle .eventRecord .recordWrap .search form .checkBtn button.active {
   background: linear-gradient(to top, #f1d7b7 0%, #cca172 50%, #f1c999 100%);
@@ -4718,7 +4801,7 @@ html body .innerPage .center .eventWrap .eventMiddle .eventRecord .recordWrap .t
   font-size: 13px;
   color: #000000;
   text-align: center;
-  border-bottom: solid 2px #f3f3f3;
+  border-bottom: solid 2px #e6e6e6;
 }
 html body .innerPage .center .eventWrap .eventMiddle .eventRecord .recordWrap .tableWrap .noData {
   display: none;
@@ -4908,9 +4991,9 @@ html body .innerPage .center .dealWrap .bottom .dealBox .reviewWrap .search form
   border: solid 1px #cca172;
   border-radius: 3px;
   color: #ffffff;
+  font-size: 14px;
   font-weight: bold;
   letter-spacing: 1px;
-  font-size: 14px;
 }
 html body .innerPage .center .dealWrap .bottom .dealBox .reviewWrap .search form .checkBtn button:hover, html body .innerPage .center .dealWrap .bottom .dealBox .reviewWrap .search form .checkBtn button:active, html body .innerPage .center .dealWrap .bottom .dealBox .reviewWrap .search form .checkBtn button.active {
   background: linear-gradient(to top, #f1d7b7 0%, #cca172 50%, #f1c999 100%);
@@ -5089,9 +5172,9 @@ html body .innerPage .center .betWrap form .timeGroup .checkBtn {
   border: solid 1px #cca172;
   border-radius: 3px;
   color: #ffffff;
+  font-size: 14px;
   font-weight: bold;
   letter-spacing: 1px;
-  font-size: 14px;
 }
 html body .innerPage .center .betWrap form .timeGroup .checkBtn:hover, html body .innerPage .center .betWrap form .timeGroup .checkBtn:active, html body .innerPage .center .betWrap form .timeGroup .checkBtn.active {
   background: linear-gradient(to top, #f1d7b7 0%, #cca172 50%, #f1c999 100%);
@@ -5270,13 +5353,15 @@ html body .innerPage .center .depositWrap .depositMiddle .top .title button {
   width: 105px;
   height: 31px;
   padding: 0 10px;
-  font-size: 15px;
-  color: #cfa678;
-  border: solid 1px #cfa678;
+  background: none;
+  border: solid 1px #cca172;
   border-radius: 3px;
-  background: #ffffff;
+  color: #cca172;
+  letter-spacing: 1px;
   display: flex;
   align-items: center;
+  text-align: center;
+  justify-content: center;
   white-space: nowrap;
 }
 html body .innerPage .center .depositWrap .depositMiddle .top .title button:hover, html body .innerPage .center .depositWrap .depositMiddle .top .title button:active, html body .innerPage .center .depositWrap .depositMiddle .top .title button.active {
@@ -5428,9 +5513,9 @@ html body .innerPage .center .depositWrap .depositMiddle .bottom .content form b
   border: solid 1px #cca172;
   border-radius: 3px;
   color: #ffffff;
+  font-size: 14px;
   font-weight: bold;
   letter-spacing: 1px;
-  font-size: 14px;
 }
 html body .innerPage .center .depositWrap .depositMiddle .bottom .content form button:hover, html body .innerPage .center .depositWrap .depositMiddle .bottom .content form button:active, html body .innerPage .center .depositWrap .depositMiddle .bottom .content form button.active {
   background: linear-gradient(to top, #f1d7b7 0%, #cca172 50%, #f1c999 100%);
@@ -5444,7 +5529,7 @@ html body .innerPage .center .depositWrap .depositMiddle .bottom .content .remin
   box-sizing: border-box;
 }
 html body .innerPage .center .depositWrap .depositMiddle .bottom .content .remindBox div {
-  color: #666666;
+  color: #4d4d4d;
   font-size: 13px;
   letter-spacing: 1px;
   margin-bottom: 11px;
@@ -5500,7 +5585,7 @@ html body .innerPage .center .transferWrap .transferMiddle .wallet .centerWallet
   align-items: center;
   font-size: 17px;
   letter-spacing: 2px;
-  color: #ed1c24;
+  color: #e11515;
   font-weight: bold;
 }
 html body .innerPage .center .transferWrap .transferMiddle .wallet .centerWallet .walletTitle p .reset_ic {
@@ -5516,9 +5601,9 @@ html body .innerPage .center .transferWrap .transferMiddle .wallet .centerWallet
   border: solid 1px #cca172;
   border-radius: 3px;
   color: #ffffff;
+  font-size: 14px;
   font-weight: bold;
   letter-spacing: 1px;
-  font-size: 14px;
 }
 html body .innerPage .center .transferWrap .transferMiddle .wallet .centerWallet .walletTitle button:hover, html body .innerPage .center .transferWrap .transferMiddle .wallet .centerWallet .walletTitle button:active, html body .innerPage .center .transferWrap .transferMiddle .wallet .centerWallet .walletTitle button.active {
   background: linear-gradient(to top, #f1d7b7 0%, #cca172 50%, #f1c999 100%);
@@ -5696,9 +5781,9 @@ html body .innerPage .center .transferWrap .transferMiddle form button {
   border: solid 1px #cca172;
   border-radius: 3px;
   color: #ffffff;
+  font-size: 14px;
   font-weight: bold;
   letter-spacing: 1px;
-  font-size: 14px;
 }
 html body .innerPage .center .transferWrap .transferMiddle form button:hover, html body .innerPage .center .transferWrap .transferMiddle form button:active, html body .innerPage .center .transferWrap .transferMiddle form button.active {
   background: linear-gradient(to top, #f1d7b7 0%, #cca172 50%, #f1c999 100%);
@@ -5724,7 +5809,7 @@ html body .innerPage .center .transferWrap .transferMiddle .activeAccount ul li 
   justify-content: space-between;
   width: auto;
   height: 50px;
-  border-bottom: solid 2px #f3f3f3;
+  border-bottom: solid 2px #e6e6e6;
 }
 html body .innerPage .center .transferWrap .transferMiddle .activeAccount ul li.listTitle {
   border-color: #f08a8a;
@@ -5816,7 +5901,7 @@ html body .innerPage .center .withdrawalWrap .withdrawalMiddle .top .walletBox .
   align-items: center;
   font-size: 17px;
   letter-spacing: 2px;
-  color: #ed1c24;
+  color: #e11515;
   font-weight: bold;
 }
 html body .innerPage .center .withdrawalWrap .withdrawalMiddle .top .walletBox .smallBox .smallTitle p.limit {
@@ -6017,9 +6102,9 @@ html body .innerPage .center .withdrawalWrap .withdrawalMiddle .bottom form butt
   border: solid 1px #cca172;
   border-radius: 3px;
   color: #ffffff;
+  font-size: 14px;
   font-weight: bold;
   letter-spacing: 1px;
-  font-size: 14px;
 }
 html body .innerPage .center .withdrawalWrap .withdrawalMiddle .bottom form button:hover, html body .innerPage .center .withdrawalWrap .withdrawalMiddle .bottom form button:active, html body .innerPage .center .withdrawalWrap .withdrawalMiddle .bottom form button.active {
   background: linear-gradient(to top, #f1d7b7 0%, #cca172 50%, #f1c999 100%);
@@ -6041,7 +6126,7 @@ html body .innerPage .center .withdrawalWrap .withdrawalMiddle .bottom .remindBo
   margin-bottom: 11px;
   font-size: 13px;
   letter-spacing: 1px;
-  color: #666666;
+  color: #4d4d4d;
   font-weight: bold;
 }
 html body .innerPage .center .withdrawalWrap .withdrawalMiddle .bottom .remindBox p {
@@ -6091,7 +6176,7 @@ html body .helpPage .center .nav li.title:hover .arrow_ic, html body .helpPage .
 html body .helpPage .center .nav li.title p {
   display: flex;
   align-items: center;
-  color: #ff0000;
+  color: #e11515;
   font-size: 22px;
   font-weight: bold;
 }
@@ -6138,7 +6223,7 @@ html body .helpPage .center .nav li.box ul li {
 }
 html body .helpPage .center .nav li.box ul li:hover, html body .helpPage .center .nav li.box ul li:active, html body .helpPage .center .nav li.box ul li.active {
   background: #fff9f8;
-  color: #ff0000;
+  color: #e11515;
 }
 html body .helpPage .center .helpWrap {
   width: 980px;
@@ -6158,7 +6243,7 @@ html body .helpPage .center .helpWrap div.display {
 }
 html body .helpPage .center .helpWrap div h2 {
   margin: 49px 0;
-  color: #333333;
+  color: #272727;
   font-size: 22px;
   font-weight: bold;
 }
@@ -6166,7 +6251,7 @@ html body .helpPage .center .helpWrap div h2:nth-of-type(1) {
   margin-top: 0;
 }
 html body .helpPage .center .helpWrap div h3 {
-  color: #1a1a1a;
+  color: #272727;
   font-size: 15px;
   font-weight: bold;
   margin-bottom: 13px;
@@ -6206,10 +6291,10 @@ html body .helpPage .center .helpWrap div .teachList li .title {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: #f2f2f2;
+  background: #f4f4f4;
 }
 html body .helpPage .center .helpWrap div .teachList li .title p {
-  color: #333333;
+  color: #272727;
   font-size: 16px;
   margin: 0;
 }
@@ -6222,7 +6307,7 @@ html body .helpPage .center .helpWrap div .teachList li .title .arrow_ic {
 html body .helpPage .center .helpWrap div .teachList li .content {
   width: 100%;
   height: auto;
-  background: #f2f2f2;
+  background: #f4f4f4;
 }
 html body .helpPage .center .helpWrap div .img {
   display: block;
@@ -6248,4 +6333,150 @@ html body .helpPage .center .helpWrap div .img.online05 {
   width: 275px;
   height: 379px;
   margin: 10px 0 20px 55px;
+}
+html body .registerWrap {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+html body .registerWrap .bigBox {
+  display: flex;
+  border-radius: 17px;
+  overflow: hidden;
+  box-shadow: 0 5px 10px -5px #00000033;
+}
+html body .registerWrap .bigBox .left {
+  width: 432px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+html body .registerWrap .bigBox .right {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 432px;
+  padding: 32px 0 37px;
+  background: #ffffff;
+}
+html body .registerWrap .bigBox .right .title {
+  display: flex;
+  align-items: center;
+  margin-bottom: 25px;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+  font-size: 25px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+html body .registerWrap .bigBox .right .title .person_ic {
+  width: 44px;
+  height: 44px;
+  margin-right: 15px;
+}
+html body .registerWrap .bigBox .right label {
+  position: relative;
+  margin-bottom: 19px;
+  display: flex;
+  justify-content: center;
+}
+html body .registerWrap .bigBox .right label input {
+  width: 332px;
+  height: 41px;
+  padding: 0 15px;
+  box-sizing: border-box;
+  border: solid 1px #e6e6e6;
+  border-radius: 3px;
+  font-size: 14px;
+  background: #ffffff;
+  color: #000000;
+  font-weight: bold;
+}
+html body .registerWrap .bigBox .right label .err {
+  position: absolute;
+  bottom: -15px;
+  left: 0;
+  font-size: 12px;
+  font-weight: bold;
+  color: #e11515;
+}
+html body .registerWrap .bigBox .right label .eye {
+  display: block;
+  width: 23px;
+  height: 17px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 20px;
+  cursor: pointer;
+}
+html body .registerWrap .bigBox .right label button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 86px;
+  height: 29px;
+  right: 11px;
+  padding: 0 10px;
+  background: none;
+  border: solid 1px #cca172;
+  border-radius: 3px;
+  color: #cca172;
+  letter-spacing: 1px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+html body .registerWrap .bigBox .right label button:hover, html body .registerWrap .bigBox .right label button:active, html body .registerWrap .bigBox .right label button.active {
+  opacity: 0.8;
+}
+html body .registerWrap .bigBox .right .tips {
+  width: 332px;
+  font-size: 12px;
+  font-weight: bold;
+  color: #999999;
+  text-align: left;
+}
+html body .registerWrap .bigBox .right .checkBox {
+  width: 332px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 23px 0 32px;
+}
+html body .registerWrap .bigBox .right .checkBox input {
+  width: 16px;
+  height: 16px;
+  margin-right: 10px;
+}
+html body .registerWrap .bigBox .right .checkBox p {
+  font-size: 16px;
+  font-weight: bold;
+  color: #000000;
+}
+html body .registerWrap .bigBox .right .checkBox p span {
+  color: #cfa678;
+}
+html body .registerWrap .bigBox .right .checkBtn {
+  width: 332px;
+  height: 41px;
+  background: linear-gradient(to bottom, #f1d7b7 0%, #cca172 50%, #f1c999 100%);
+  border: solid 1px #cca172;
+  border-radius: 3px;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+html body .registerWrap .bigBox .right .checkBtn:hover, html body .registerWrap .bigBox .right .checkBtn:active, html body .registerWrap .bigBox .right .checkBtn.active {
+  background: linear-gradient(to top, #f1d7b7 0%, #cca172 50%, #f1c999 100%);
 }

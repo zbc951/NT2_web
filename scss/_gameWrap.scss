@@ -55,7 +55,7 @@
                 line-height: 24px;
                 font-size: 14px;
                 font-weight: bold;
-                color: $fontColor_12;
+                color: $fontColor_10;
             }
         }
 
@@ -87,7 +87,7 @@
 
                         //for live真人
                         .imgBox {
-                            border: solid 1px $borderColor_9;
+                            border: solid 1px $borderColor_2;
                             border-radius: 5px;
                             box-shadow: 0 5px 10px 0 $boxShadow_2;
                             background: $linear_2;
@@ -131,7 +131,7 @@
             .nav {
                 margin: 0 26px;
                 height: 70px;
-                border-bottom: solid 1px $borderColor_7;
+                border-bottom: solid 1px $borderColor_2;
                 display: flex;
                 align-items: center;
                 justify-content: space-between;
@@ -142,7 +142,7 @@
                     display: flex;
 
                     li {
-                        color: $fontColor_9;
+                        color: $fontColor_7;
                         width: auto;
                         height: calc(100% - 3px);
                         padding: 0 50px;
@@ -155,7 +155,7 @@
                         position: relative;
     
                         &:hover,&:active,&.active {
-                            color: $fontColor_8;
+                            color: $fontColor_4;
                             border-color: $borderColor_8;
 
                             &::before {
@@ -205,6 +205,11 @@
 
                     .platforms {
                         margin-bottom: 50px;
+                        display: none;
+
+                        &.display {
+                            display: block;
+                        }
 
                         .pfName {
                             width: 100%;
@@ -214,7 +219,26 @@
                             justify-content: space-between;
                             align-items: center;
 
-                            button {
+                            &.active {
+                                justify-content: flex-start;
+
+                                .back {
+                                    display: block;
+                                }
+
+                                .all {
+                                    display: none;
+                                }
+                            }
+
+                            .back {
+                                display: none;
+                                width: 18px;
+                                height: 32px;
+                                margin-right: 20px
+                            }
+
+                            .all {
                                 @include buttonStyle_3;
                                 width: 137px;
                                 height: 40px;
@@ -232,24 +256,30 @@
 
                         .gameList {
                             width: 100%;
-                            height: auto;
-                            display: flex;
+                            height: 200px;
                             justify-content: flex-start;
+                            flex-wrap: wrap;
+                            overflow: hidden;
+                            display: flex;
+
+                            &.active {
+                                height: auto;
+                            }
 
                             li {
                                 width: 250px;
                                 height: 200px;
-                                border: solid 1px $borderColor_10;
+                                border: solid 1px $borderColor_7;
                                 border-radius: 5px;
                                 overflow: hidden;
                                 cursor: pointer;
                                 box-sizing: border-box;
                                 font-size: 0px;
                                 position: relative;
-                                margin-right: 15px;
+                                margin: 0 13px 13px 0;
 
-                                &:last-child {
-                                    margin: 0;
+                                &:nth-of-type(5n) {
+                                    margin-right: 0;
                                 }
 
                                 &:hover,&:active,&.active {
@@ -336,7 +366,7 @@
             justify-content: center;
             font-weight: bold;
             color: $fontColor_2;
-            border-right: solid 1px $borderColor_3;
+            border-right: solid 1px $borderColor_2;
             cursor: pointer;
 
             &:last-child {

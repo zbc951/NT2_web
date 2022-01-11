@@ -1,249 +1,105 @@
-//header,footer
 $backgroundColor_1: #333333;
-//header .gameNav,footer .footerList,.jumpWindow .title,.eventBody .side li:before
-//.innerSide .innerNav:active:before,.vipWrap .lvGraph .bar li.active,.mailWrap .btnBox .all:before
 $backgroundColor_2: #e11515;
-//跑馬燈 header .marqueeBox,下拉選單 header .listWrap,.jumpWindow,.gameWrap .slotCenter
-//.eventWrap .eventBody .side,.eventList .eventBox,.eventDetail,.innerSide,.innerPage .vipWrap
-//.memberWrap .top,.memberWrap .dataWrap,.rightSide .smallBoard,.memberWrap .platformWrap
-//.walletMiddle .top,.walletMiddle .bottom,.cardMiddle .top,.cardMiddle .card.register .review
-//.cardMiddle .bottom,.mailWrap .top,.mailWrap .list,.mailWrap .btnBox .all:after,.mailWrap.innerMode
 $backgroundColor_3: #ffffff;
-//.mainWrap,.gameWrap,.vipWrap .lvGraph .bar li
-$backgroundColor_4: #f2f2f2;
-//.register hover,.infoPart hover
+$backgroundColor_4: #f4f4f4;
 $backgroundColor_5: #5d4614;
-//header .transferInfo
 $backgroundColor_6: #666666;
-//filter,.platforms .btnBox
 $backgroundColor_7: #00000066;
-//jumpWindow .news li:before
-$backgroundColor_8: #ececec;
-//.eventWrap,.innerPage
-$backgroundColor_9: #f4f4f4;
-//.eventBody .side li:active,.innerSide .innerNav li:active
+$backgroundColor_8: #e6e6e6;
+$backgroundColor_9: #05b900;
 $backgroundColor_10: #fff9f8;
-//.innerSide .lv
 $backgroundColor_11: #cfb53d;
-//.vipWrap .nextBar .bar,.memberWrap .content .level li i,.walletMiddle .percent .bar
 $backgroundColor_12: #cccccc;
-//.vipWrap .nextBar .bar .cnt,,.walletMiddle .percent .cnt
 $backgroundColor_13: #cca172;
-//.jumpWindow .score .notice p,.walletMiddle .totalTitle .jumpRemind,.walletMiddle .ableTitle .jumpRemind
-$backgroundColor_14: #c9a072;
-//.memberWrap .level li.active
-$backgroundColor_15: #05b900;
-//.mailWrap .list li:hover
-$backgroundColor_16: #f9f9f9;
-//
-$backgroundColor_17: #e6e6e6;
 
-//.brad,.brad .time,.gameNav li,.jumpWindow .title p,.eventTitle p,.innerSide .lv
-//.jumpWindow .score .notice p,.detailCardBox .cardBg.active .content .num
-//.walletMiddle .totalTitle .jumpRemind,.cardMiddle .card.register .name,.cardMiddle .card.register .branch
-//.cardMiddle .card.register .account,.cardMiddle .card.empty .text
 $fontColor_1: #ffffff;
-//.topGameList p,.eventBody .side li,.innerSide .account,.vipHeader .medal p,.vipHeader .rightBox .lv
-//.jumpWindow .score .total,jumpWindow .score ul li div,.vipWrap .detailCardBox .medal p
-//.vipWrap .detailTitle_2,.vipWrap .fakeTable li div,.memberWrap .content p,.memberWrap .content .level li
-//.memberWrap .dataWrap label,.memberWrap .dataWrap p,.walletMiddle .able .lock
-//.walletMiddle .activeWallet .detailTitle div,.walletMiddle .platformWallet li p
-//.jumpWindow .walletRecord .title p,.jumpWindow .walletRecord .content .num,.jumpWindow.walletRecord .content table th
-//.cardMiddle .bottom .smallTitle,.mailWrap .list li .title,.mailWrap.innerMode .title button
-//.mailWrap.innerMode .msgTitle span
 $fontColor_2: #000000;
-//.mainWrap p.game,.rightSide .smallBoard .more,.rightSide .smallBoard li p:last-child
-//.jumpWindow .content div
-$fontColor_3: #333333;
-//.mainWrap p.type
-$fontColor_4: #ed1c24;
-//header lv
+$fontColor_3: #272727;
+$fontColor_4: #e11515;
 $fontColor_5: #f6cb27;
-//header .moneyTotal
 $fontColor_6: #ffff00;
-//jumpWindow .forgetPassword p
-$fontColor_7: #b0b0b1;
-//jumpWindow .news li:acitve,.gameWrap .slotBody .nav li:acitve,.vipWrap .levelEnjoy .num
-//.jumpWindow .score .total p,.memberWrap .dataWrap em::before,.rightSide .smallBoard .smallTitle
-//.cardMiddle .bottom .smallTitle span,.cardMiddle .bottom .err
-$fontColor_8: #e11515;
-//jumpWindow .news li,jumpWindow .news .content .date,.gameWrap .slotBody .nav li
-//.walletMiddle .percent .remind,.cardMiddle .top .content .title span:nth-of-type(2)
-$fontColor_9: #808080;
-//jumpWindow .news .content p,.gameWrap .btnBox p,.eventDetail .date span,.eventDetail .info p
-//.vipHeader .rightBox .money span,.vipWrap .lvGraph .text li,.vipWrap .nextBox .nextWord
-//.vipWrap .nextBox .nextBar,.vipWrap .levelEnjoy .text,.rightSide .smallBoard .title
-//.walletMiddle .able .lock p,.walletMiddle .platformWallet li div,.mailWrap.innerMode .msg
+$fontColor_7: #999999;
+$fontColor_8: #f15a24;
+$fontColor_9: #cfa678;
 $fontColor_10: #4d4d4d;
-//gameWrap .title
 $fontColor_11: #9c7d59;
-//geamWrap .mainCnt
-$fontColor_12: #666666;
-//.innerSide .days,.vipWrap .detailCardBox .content .text,.memberWrap .content .remind
-//.memberWrap .dataWrap .remind,.rightSide .smallBoard li p:nth-of-type(1),.noData
-//.walletMiddle .walletDetail .noData,.jumpWindow.walletRecord .content .noData
-//.cardMiddle .bottom .inputBox small,.mailWrap .list li .date,.mailWrap.innerMode .date
-$fontColor_13: #999999;
-//.vipWrap .levelEnjoy .title,.vipWrap .detailTitle,.detailCardBox .content .num
-//.memberWrap .top h1,.memberWrap .dataWrap .content h1,.memberWrap .dataWrap .changePassword h1
-//.memberWrap .platformWrap h1,.walletMiddle .top .title,.walletMiddle .total .amount
-//.walletMiddle .able .ableTitle,.walletMiddle .able .amount,.walletMiddle .activeWallet .title
-//.walletMiddle .platformWallet .title,.cardMiddle .top .header,.cardMiddle .top .content .title
-//.cardMiddle .bottom .title,.mailWrap .top p
-$fontColor_14: #272727;
-//.detailCardBox .cardBg.active .content .text
-$fontColor_15: #f2bdbf;
-//.memberWrap .content .low
-$fontColor_16: #ff0000;
-//.memberWrap .content .middle
-$fontColor_17: #ff8d68;
-//.memberWrap .content .high
-$fontColor_18: #5aa960;
-//.memberWrap .dataWrap .remind.np
-$fontColor_19: #29abe2;
-//.walletMiddle .total .title
-$fontColor_20: #009245;
-//.cardMiddle .card.register .review
-$fontColor_21: #f1c999;
-//.mailWrap .all
-$fontColor_22: #888888;
-//
-$fontColor_23: #46a877;
-//
-$fontColor_24: #ff7f46;
-//
-$fontColor_25: #cfa678;
-//
-$fontColor_26: #ed1c24;
-//
-$fontColor_27: #f15a24;
-//
-$fontColor_28: #00a99d;
-//
-$fontColor_29: #55aaff;
-//
-$fontColor_30: #1a1a1a;
+$fontColor_12: #ff8d68;
+$fontColor_13: #00a99d;
+$fontColor_14: #55aaff;
 
-//header 未登入li border-right
 $borderColor_1: #ffffff4d;
-//header .listWrap bordet-top,.walletMiddle .activeWallet .walletDetail li,.walletMiddle .historyWallet .walletDetail li
-$borderColor_2: #f3f3f3;
-//首頁下方教學條 border-right
-$borderColor_3: #ebebeb;
-//header .transferInfo border
-$borderColor_4: #4c4c4c;
-//header .transferInfo li border-bottom
-$borderColor_5: #737373;
-//header .moneyTotal border箭頭
+$borderColor_2: #e6e6e6;
+$borderColor_3: #ffffff;
+$borderColor_4: #737373;
+$borderColor_5: #f08a8a;
 $borderColor_6: #ffff00;
-//jumpWindow news nav border-bottom,.gameWrap .slotCenter .nav,.eventBody .side li border-bottom
-//.eventDetail .date border-bottom,.innerPage .innerNav li border-top,.vipWrap .levelEnjoy border-top
-//.jumpWindow .score ul li border-bottom,..jumpWindow .score ul li .name border-right
-//.vipWrap .fakeTable li border-bottom,.vipWrap .fakeTable li div border-right,.vipWrap hr border-top
-//.memberWrap .top h1,.memberWrap .content border-bottom,.memberWrap .smallBoard .title border-bottom
-//.rightSide .smallBoard .list li border-bottom,.walletMiddle .top .total border-right
-//.walletMiddle .able border-bottom,.walletMiddle .activeWallet .detailTitle div border-right
-//.walletMiddle .platformWallet li border,.cardMiddle .top .header,.mailWrap .top p
-//.mailWrap .list ul li
-$borderColor_7: #e6e6e6;
-//jumpWindow .news li acitve border-color,.gameWrap .slotBody .nav li:active border-color
-//.slotBody .nav li:active,.vipWrap .fakeTable li.header border-bottom
+$borderColor_7: #b3b3b3;
 $borderColor_8: #e11515;
-//.gameWrap .livePage .imgBox border
-$borderColor_9: #f4f4f4;
-//.slotBody .gameList  li border
-$borderColor_10: #b3b3b3;
-//.vipWrap .levelEnjoy
-$borderColor_11: #e9e9e9;
-//.jumpWindow.score,.mailWrap .btnBox .all:after
-$borderColor_12: #ececec;
-//.jumpWindow.score .notice p i,.walletMiddle .totalTitle .jumpRemind i,.walletMiddle .ableTitle .jumpRemind i
-$borderColor_13: #c9a072;
-//.walletMiddle .activeWallet .detailTitle border-bottom,.jumpWindow.walletRecord .content table th border-bottom
-$borderColor_14: #f08a8a;
-//.cardMiddle .cardBox .card.register
-$borderColor_15: #ffffff;
-//.mailWrap .list li::before
-$borderColor_16: #cacaca;
-//
-$borderColor_17: #cca172;
+$borderColor_9: #cca172;
 
-//sideBar boxshadow
 $boxShadow_1: #8a000080;
-//首頁下方教學條 boxshadow .mainWrap .downBar
 $boxShadow_2: #c0c0c0;
-//.marquee,.gameWrap .slotCenter .slotBody,.eventWrap .eventBody .side
-//.eventList .eventBox,.eventDetail,.innerSide,.innerPage .vipWrap,.memberWrap .top
-//.memberWrap .dataWrap,,.rightSide .smallBoard,.memberWrap .platformWrap
-//.walletMiddle .top,.walletMiddle .bottom,.cardMiddle .top,.cardMiddle .bottom
-//.mailWrap .top,.mailWrap .list,.mailWrap.innerMode
 $boxShadow_3: #00000033;
-//.cardMiddle .cardBox .card
-$boxShadow_4: #dedede;
 
-//首頁下方教學條背景漸層
 $linear_1: linear-gradient(to bottom,#ffffff 40%,#f2f2f2 100%);
-//.gameWrap .livePage .imgBox
 $linear_2: linear-gradient(to bottom,#ffffff 0%,#e6e6e6 100%);
-//.cardMiddle .cardBox .card.empty
 $linear_3: linear-gradient(120deg,#e8ebf2 0%,#cbcdd3 30%);
-//.cardMiddle .cardBox .card.register
 $linear_4: linear-gradient(120deg,#f1d7b7 0%,#cca172 50%,#f1c999 100%);
+
 
 ///////button
 
 
-//header 未登入樣式
+//登入
 @mixin buttonStyle_1 {
     background: #e11515;
     border: solid 1px #f56d5c;
+    border-radius: 3px;
     color: #ffffff;
+    font-size: 14px;
     font-weight: bold;
     padding: 0 16px;
-    font-size: 14px;
-    border-radius: 3px;
 
     &:hover,&:active,&.active {
 
     }
 }
-//footer .footerList button
+//footer右二按鈕
 @mixin buttonStyle_2 {
     background: none;
     border: solid 1px #e98a8a;
-    color: #ffffff;
-    letter-spacing: 1px;
     border-radius: 3px;
+    color: #ffffff;
     font-size: 14px;
+    letter-spacing: 1px;
 
     &:hover,&:active,&.active {
         background: #a31414;
     }
 }
-//jumpWindow button,.memberWrap .dataWrap button,.jumpWindow .passwordWindow button
-//.jumpWindow .plsGo button
+//常用黃漸層按鈕
 @mixin buttonStyle_3 {
     background: linear-gradient(to bottom, #f1d7b7 0%, #cca172 50%, #f1c999 100%);
     border: solid 1px #cca172;
     border-radius: 3px;
     color: #ffffff;
+    font-size: 14px;
     font-weight: bold;
     letter-spacing: 1px;
-    font-size: 14px;
 
     &:hover,&:active,&.active {
         background: linear-gradient(to top, #f1d7b7 0%, #cca172 50%, #f1c999 100%);
     }
 }
-//.gameList .btnBox button
+//老虎機機台進入遊戲+試玩
 @mixin buttonStyle_4 {
     background: linear-gradient(to top, #801c1c 0%, #f13945 100%);
-    border-radius: 3px;
     border: solid 1px #f56d5c;
+    border-radius: 3px;
     color: #ffffff;
+    font-size: 16px;
     font-weight: bold;
     letter-spacing: 1px;
-    font-size: 16px;
 
     &:hover,&:active,&.active {
         background: #5a0c0c;
@@ -251,30 +107,30 @@ $linear_4: linear-gradient(120deg,#f1d7b7 0%,#cca172 50%,#f1c999 100%);
 }
 @mixin buttonStyle_4_2 {
     background: linear-gradient(to top, #324ab9 0%, #6a91f3 100%);
-    border-radius: 3px;
     border: solid 1px #5c8df5;
+    border-radius: 3px;
     color: #ffffff;
+    font-size: 16px;
     font-weight: bold;
     letter-spacing: 1px;
-    font-size: 16px;
 
     &:hover,&:active,&.active {
         background: #0e1c5e;
     }
 }
-//.eventBox .btnBox button
+//優惠頁查看活動
 @mixin buttonStyle_5 {
     background: linear-gradient(to bottom,#9ddbec 0%,#0282cc 50%,#82aeeb 100%);
+    border: solid 1px #0282cc;
+    border-radius: 3px;
     color: #ffffff;
     font-size: 14px;
-    border-radius: 3px;
-    border: solid 1px #0282cc;
 
     &:hover,&:active,&.active {
         background: linear-gradient(to top,#9ddbec 0%,#0282cc 50%,#82aeeb 100%);
     }
 }
-//.eventDetail .back
+//優惠頁返回
 @mixin buttonStyle_6 {
     background: linear-gradient(to bottom,#ffffff 40%,#f4f4f4 100%);
     border: solid 1px #e8e8e8;
@@ -287,8 +143,8 @@ $linear_4: linear-gradient(120deg,#f1d7b7 0%,#cca172 50%,#f1c999 100%);
         background: linear-gradient(to top,#ffffff 40%,#f4f4f4 100%);
     }
 }
-//.innerSide .quickSelect
-@mixin  buttonStyle_7 {
+//轉存提小按鈕
+@mixin buttonStyle_7 {
     background: #fcf3f1;
     border: solid 1px #ff766f;
     color: #e11515;
@@ -305,19 +161,36 @@ $linear_4: linear-gradient(120deg,#f1d7b7 0%,#cca172 50%,#f1c999 100%);
         color: #ffffff;
     }
 }
-//.vipWrap .nextBox .nextBar .check,.vipWrap .more,.walletMiddle .walletDetail .record
+//無背景單框按鈕
 @mixin buttonStyle_8 {
+    padding: 0 10px;
     background: none;
     border: solid 1px #cca172;
     border-radius: 3px;
     color: #cca172;
     letter-spacing: 1px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    white-space: nowrap;
+
+    &:hover,&:active,&.active {
+        opacity: 0.8;
+    }
+}
+//我的錢包-轉入中心錢包
+@mixin  buttonStyle_8_2 {
+    background: #ffffff;
+    border: solid 1px #e11515;
+    border-radius: 3px;
+    color: #e11515;
 
     &:hover,&:active,&.active {
         
     }
 }
-//.memberWrap .bottom .tabs,.walletMiddle .bottom .tabs,.mailWrap .tabs
+//頁籤式按鈕
 @mixin buttonStyle_9 {
     background: #999999;
     border-radius: 5px 5px 0 0;
@@ -334,34 +207,40 @@ $linear_4: linear-gradient(120deg,#f1d7b7 0%,#cca172 50%,#f1c999 100%);
         background: #ce1515;
     }
 }
-//.memberWrap .dataWrap .copy
+//存款頁上方選單
 @mixin buttonStyle_10 {
-    padding: 0 10px;
-    font-size: 15px;
-    color: #cfa678;
-    border: solid 1px #cfa678;
-    border-radius: 3px;
-    background: #ffffff;
     display: flex;
     align-items: center;
-    white-space: nowrap;
-
-    &:hover,&:active,&.active {
-        opacity: 0.8;
-    }
-}
-//.walletMiddle .walletDetail .trans
-@mixin  buttonStyle_11 {
-    background: #ffffff;
-    border: solid 1px #e11515;
+    justify-content: center;
+    border: solid 1px #cccccc;
     border-radius: 3px;
-    color: #e11515;
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    cursor: pointer;
 
     &:hover,&:active,&.active {
-        
+        background: #e11515;
+        color: #ffffff;
+        border-color: transparent;
     }
 }
-//.mallWrap div a
+//選擇時間+選擇金額
+@mixin buttonStyle_11 {
+    font-size: 15px;
+    font-weight: bold;
+    color: #000000;
+    background: linear-gradient(to bottom,#ffffff 40%,#f4f4f4 100%);
+    border: solid 1px #e8e8e8;
+    border-radius: 3px;
+    letter-spacing: 1px;
+
+    &:hover,&:active,&.active {
+        background: #e11515;
+        color: #ffffff;
+    }
+}
+//站內信編輯按鈕+其他按鈕
 @mixin buttonStyle_12 {
     display: flex;
     align-items: center;
@@ -423,7 +302,7 @@ $linear_4: linear-gradient(120deg,#f1d7b7 0%,#cca172 50%,#f1c999 100%);
         opacity: 0.8;
     }
 }
-//
+//優惠-申請提領+查看活動
 @mixin buttonStyle_13 {
     font-size: 13px;
     font-weight: bold;
@@ -448,53 +327,7 @@ $linear_4: linear-gradient(120deg,#f1d7b7 0%,#cca172 50%,#f1c999 100%);
         
     }
 }
-@mixin buttonStyle_14 {
-    font-size: 15px;
-    font-weight: bold;
-    color: #000000;
-    background: linear-gradient(to bottom,#ffffff 40%,#f4f4f4 100%);
-    border: solid 1px #e8e8e8;
-    border-radius: 3px;
-    letter-spacing: 1px;
 
-    &:hover,&:active,&.active {
-        background: #e11515;
-        color: #ffffff;
-    }
-}
-@mixin buttonStyle_15 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border: solid 1px #cccccc;
-    border-radius: 3px;
-    font-size: 14px;
-    letter-spacing: 1px;
-    font-weight: bold;
-    cursor: pointer;
-
-    &:hover,&:active,&.active {
-        background: #e11515;
-        color: #ffffff;
-        border-color: transparent;
-    }
-}
-@mixin buttonStyle_16 {
-    background: linear-gradient(to bottom,#ffffff 40%,#f4f4f4 100%);
-    border: solid 1px #e6e6e6;
-    border-radius: 2px;
-    color: #333333;
-    font-weight: bold;
-    font-size: 15px;
-
-    &:hover,&:active,&.active {
-        background: #ffffff;
-        color: #e11515;
-        border-color: #e11515;
-    }
-}
-
-//button disable
 button:disabled {
     background: #ccc!important;
     border: none!important;
@@ -507,7 +340,6 @@ button:disabled {
 ////////input
 
 
-//未登入樣式 header input,
 @mixin inputStyle_1 {
     border: solid 1px #e6e6e6;
     background: #ffffff;
@@ -516,7 +348,6 @@ button:disabled {
     padding: 0 5px 0 30px;
     font-size: 14px;
 }
-//彈窗forgetPassword input
 @mixin inputStyle_2 {
     border: solid 1px #e6e6e6;
     background: transparent;
@@ -525,7 +356,6 @@ button:disabled {
     font-weight: bold;
     font-size: 16px;
 }
-//.memberWrap .dataWrap input,.jumpWindow .passwordWindow input,.cardMiddle .bottom .content input
 @mixin inputStyle_3 {
     padding: 0 15px;
     box-sizing: border-box;
@@ -552,10 +382,10 @@ input:read-only {
     pointer-events: none !important;
 }
 
+
 ///////select
 
 
-//語言列
 @mixin langStyle {
     background: none;
     border: none;
@@ -568,7 +398,6 @@ input:read-only {
         color: #333333;
     }
 }
-//
 @mixin selectStyle_1 {
     border-radius: 3px;
     border: solid 1px #e6e6e6;

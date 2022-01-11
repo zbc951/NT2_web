@@ -240,7 +240,7 @@ $(function(){
     $('.jumpWindow .close_ic,.jumpWindow .close_ic_gray').click(function(){
         $('.filter').removeClass('display');
     })
-    $('.plsLogin button,.plsGo button,.checkEvent button').click(function(){
+    $('.plsGo button,.checkEvent button').click(function(){
         $('.filter').removeClass('display');
     })
 
@@ -256,7 +256,7 @@ $(function(){
 
     $('.unlogin').click(function(){
         $('.jumpWindow').removeClass('display');
-        $('.filter,.plsLogin').addClass('display');
+        $('.filter,.plsGo').addClass('display');
     })
 
     $('.vipWrap .check').click(function(){
@@ -558,5 +558,20 @@ $(function(){
     $('.forUs_6').click(function(){
         $('.aboutUs_6').addClass('display');
         $('.aboutUs_6').siblings().removeClass('display');
+    })
+})
+
+//slotPage 遊戲展開
+$(function(){
+    $('.pfName .all').click(function(){
+        $('.platforms').removeClass('display');
+        $($(this).closest('.platforms')).addClass('display');
+        $($(this).closest('.pfName').next('.gameList')).addClass('active');
+        $($(this).closest('.pfName')).addClass('active');
+    })
+
+    $('.pfName .back').click(function(){
+        $('.platforms').addClass('display');
+        $('.pfName.active,.gameList.active').removeClass('active');
     })
 })

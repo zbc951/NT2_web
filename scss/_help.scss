@@ -42,7 +42,7 @@
                     p {
                         display: flex;
                         align-items: center;
-                        color: $fontColor_16;
+                        color: $fontColor_4;
                         font-size: 22px;
                         font-weight: bold;
     
@@ -92,11 +92,11 @@
                             align-items: center;
                             font-size: 18px;
                             font-weight: bold;
-                            color: $fontColor_13;
+                            color: $fontColor_7;
     
                             &:hover,&:active,&.active {
                                 background: $backgroundColor_10;
-                                color: $fontColor_16;
+                                color: $fontColor_4;
                             }
                         }
                     }
@@ -133,7 +133,7 @@
                 }
                 
                 h3 {
-                    color: $fontColor_30;
+                    color: $fontColor_3;
                     font-size: 15px;
                     font-weight: bold;
                     margin-bottom: 13px;
@@ -147,7 +147,7 @@
                 }
 
                 a {
-                    color: $fontColor_29;
+                    color: $fontColor_14;
                     text-decoration: none;
                 }
 

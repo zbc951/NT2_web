@@ -80,7 +80,7 @@
 
             .nav {
                 margin: 30px 15px 8px;
-                border-bottom: solid 1px $borderColor_7;
+                border-bottom: solid 1px $borderColor_2;
                 display: flex;
 
                 li {
@@ -92,12 +92,12 @@
                     padding: 0 40px;
                     cursor: pointer;
                     border-bottom: solid 3px transparent;
-                    color: $fontColor_9;
+                    color: $fontColor_7;
                     display: flex;
                     align-items: center;
 
                     &:hover,&:active,&.active {
-                        color: $fontColor_8;
+                        color: $fontColor_4;
                         border-color: $borderColor_8;
                     }
 
@@ -128,7 +128,7 @@
                     padding: 0 5px;
                     display: flex;
                     align-items: center;
-                    border-bottom: solid 1px $borderColor_7;
+                    border-bottom: solid 1px $borderColor_2;
 
                     div {
                         width: 100%;
@@ -150,7 +150,7 @@
                             }
 
                             &.date {
-                                color: $fontColor_9;
+                                color: $fontColor_7;
                                 font-size: 14px;
                             }
                         }
@@ -159,7 +159,7 @@
             }
         }
 
-        &.plsLogin,&.plsGo,&.noAccount {
+        &.plsGo {
             display: none;
 
             &.display {
@@ -202,12 +202,12 @@
                 justify-content: center;
                 align-items: center;
                 padding: 15px 0;
-                border-bottom: solid 1px $borderColor_12;
+                border-bottom: solid 1px $borderColor_2;
                 font-size: 16px;
                 color: $fontColor_2;
 
                 p {
-                    color: $fontColor_8;
+                    color: $fontColor_4;
                     font-size: 26px;
                     font-weight: bold;
                     margin-top: 8px;
@@ -224,7 +224,7 @@
                     justify-content: flex-start;
                     width: 100%;
                     height: 48px;
-                    border-bottom: solid 1px $borderColor_7;
+                    border-bottom: solid 1px $borderColor_2;
 
                     &:last-child {
 
@@ -252,7 +252,7 @@
 
                         &.name {
                             width: 152px;
-                            border-right: solid 1px $borderColor_7;
+                            border-right: solid 1px $borderColor_2;
                             padding-left: 30px;
                         }
 
@@ -283,7 +283,7 @@
                                 p {
                                     width: 100%;
                                     height: 100%;
-                                    background: $backgroundColor_14;
+                                    background: $backgroundColor_13;
                                     border-radius: 3px;
                                     display: flex;
                                     align-items: center;
@@ -299,7 +299,7 @@
                                         height: 0px;
                                         border-style: solid;
                                         border-width: 0px 6px 8px;
-                                        border-color: $borderColor_13 transparent;
+                                        border-color: $borderColor_9 transparent;
                                     }
                                 }
                             }
@@ -390,7 +390,7 @@
                             width: 25%;
                             vertical-align: middle;
                             height: 35px;
-                            border-bottom: solid 2px $borderColor_14;
+                            border-bottom: solid 2px $borderColor_5;
                             font-size: 12px;
                             color: $fontColor_2;
                         }
@@ -405,7 +405,7 @@
                     justify-content: center;
                     letter-spacing: 1px;
                     font-weight: bold;
-                    color: $fontColor_13;
+                    color: $fontColor_7;
                 }
             }
         }
@@ -526,7 +526,7 @@
                         button {
                             width: 85px;
                             height: 32px;
-                            @include buttonStyle_16;
+                            @include buttonStyle_11;
                             margin: 0 2px 6px 0;
 
                             &:nth-of-type(3n) {
@@ -549,7 +549,7 @@
                 height: auto;
                 text-align: center;
                 padding: 20px 0;
-                border-top: solid 1px $borderColor_11;
+                border-top: solid 1px $borderColor_2;
 
                 button {
                     width: 351px;
