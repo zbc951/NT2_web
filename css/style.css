@@ -169,7 +169,33 @@ footer .top button::before {
 }
 
 .partnerBox .png {
-  background: #ffffff;
+  background: url("../images/icon/png.png") no-repeat;
+  background-size: 100%;
+}
+
+.partnerBox .px {
+  background: url("../images/icon/px.png") no-repeat;
+  background-size: 100%;
+}
+
+.partnerBox .sa {
+  background: url("../images/icon/sa.png") no-repeat;
+  background-size: 100%;
+}
+
+.partnerBox .tc {
+  background: url("../images/icon/tc.png") no-repeat;
+  background-size: 100%;
+}
+
+.partnerBox .dg {
+  background: url("../images/icon/dg.png") no-repeat;
+  background-size: 100%;
+}
+
+.partnerBox .og {
+  background: url("../images/icon/og.png") no-repeat;
+  background-size: 100%;
 }
 
 .footerList button i {

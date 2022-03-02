@@ -86,7 +86,7 @@ $(function(){
         partners[0].style.transform = "translateX(" + (-190 * n) + "px)";
         console.log(n);
 
-        if(n == 6){
+        if(n == 11){
             n --;
         }
     }
